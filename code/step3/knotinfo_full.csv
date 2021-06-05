@@ -1,0 +1,2978 @@
+Name,Unknotting Number,Genus,Bridge Index,Nakanishi Index,Tunnel Number,Symmetry Type,Full Symmetry Group
+3_1,1,1,2,1,1,reversible,Z2
+4_1,1,1,2,1,1,fully amphicheiral,D4
+5_1,2,2,2,1,1,reversible,Z2
+5_2,1,1,2,1,1,reversible,D2
+6_1,1,1,2,1,1,reversible,D2
+6_2,1,2,2,1,1,reversible,D2
+6_3,1,2,2,1,1,fully amphicheiral,D4
+7_1,3,3,2,1,1,reversible,Z2
+7_2,1,1,2,1,1,reversible,D2
+7_3,2,2,2,1,1,reversible,D2
+7_4,2,1,2,1,1,reversible,D4
+7_5,2,2,2,1,1,reversible,D2
+7_6,1,2,2,1,1,reversible,D2
+7_7,1,2,2,1,1,reversible,D4
+8_1,1,1,2,1,1,reversible,D2
+8_2,2,3,2,1,1,reversible,D2
+8_3,2,1,2,1,1,fully amphicheiral,D4
+8_4,2,2,2,1,1,reversible,D2
+8_5,2,3,3,1,1,reversible,D2
+8_6,2,2,2,1,1,reversible,D2
+8_7,1,3,2,1,1,reversible,D2
+8_8,2,2,2,1,1,reversible,D2
+8_9,1,3,2,1,1,fully amphicheiral,D4
+8_10,2,3,3,1,1,reversible,D1
+8_11,1,2,2,1,1,reversible,D2
+8_12,2,2,2,1,1,fully amphicheiral,D4
+8_13,1,2,2,1,1,reversible,D2
+8_14,1,2,2,1,1,reversible,D2
+8_15,2,2,3,1,1,reversible,D2
+8_16,2,3,3,1,2,reversible,D1
+8_17,1,3,3,1,2,negative amphicheiral,D1
+8_18,2,3,3,2,2,fully amphicheiral,D8
+8_19,3,3,3,1,1,reversible,Z2
+8_20,1,2,3,1,1,reversible,D1
+8_21,1,2,3,1,1,reversible,D2
+9_1,4,4,2,1,1,reversible,Z2
+9_2,1,1,2,1,1,reversible,D2
+9_3,3,3,2,1,1,reversible,D2
+9_4,2,2,2,1,1,reversible,D2
+9_5,2,1,2,1,1,reversible,D2
+9_6,3,3,2,1,1,reversible,D2
+9_7,2,2,2,1,1,reversible,D2
+9_8,2,2,2,1,1,reversible,D2
+9_9,3,3,2,1,1,reversible,D2
+9_10,3,2,2,1,1,reversible,D4
+9_11,2,3,2,1,1,reversible,D2
+9_12,1,2,2,1,1,reversible,D2
+9_13,3,2,2,1,1,reversible,D2
+9_14,1,2,2,1,1,reversible,D2
+9_15,2,2,2,1,1,reversible,D2
+9_16,3,3,3,1,1,reversible,D2
+9_17,2,3,2,1,1,reversible,D4
+9_18,2,2,2,1,1,reversible,D2
+9_19,1,2,2,1,1,reversible,D2
+9_20,2,3,2,1,1,reversible,D2
+9_21,1,2,2,1,1,reversible,D2
+9_22,1,3,3,1,1,reversible,D1
+9_23,2,2,2,1,1,reversible,D4
+9_24,1,3,3,1,1,reversible,D1
+9_25,2,2,3,1,1,reversible,D1
+9_26,1,3,2,1,1,reversible,D2
+9_27,1,3,2,1,1,reversible,D2
+9_28,1,3,3,1,1,reversible,D2
+9_29,2,3,3,1,2,reversible,D1
+9_30,1,3,3,1,1,reversible,D1
+9_31,2,3,2,1,1,reversible,D4
+9_32,2,3,3,1,2,chiral,1
+9_33,1,3,3,1,2,chiral,1
+9_34,1,3,3,1,2,reversible,D1
+9_35,3,1,3,2,2,reversible,D6
+9_36,2,3,3,1,1,reversible,D1
+9_37,2,2,3,2,2,reversible,D2
+9_38,3,2,3,2,2,reversible,D1
+9_39,1,2,3,1,2,reversible,D1
+9_40,2,3,3,2,2,reversible,D6
+9_41,2,2,3,2,2,reversible,D3
+9_42,1,2,3,1,1,reversible,D1
+9_43,2,3,3,1,1,reversible,D1
+9_44,1,2,3,1,1,reversible,D1
+9_45,1,2,3,1,1,reversible,D1
+9_46,2,1,3,2,2,reversible,D2
+9_47,2,3,3,2,2,reversible,D3
+9_48,2,2,3,2,2,reversible,D6
+9_49,3,2,3,2,2,reversible,D3
+10_1,1,1,2,1,1,reversible,D2
+10_2,3,4,2,1,1,reversible,D2
+10_3,2,1,2,1,1,reversible,D2
+10_4,2,2,2,1,1,reversible,D2
+10_5,2,4,2,1,1,reversible,D2
+10_6,3,3,2,1,1,reversible,D2
+10_7,1,2,2,1,1,reversible,D2
+10_8,2,3,2,1,1,reversible,D2
+10_9,1,4,2,1,1,reversible,D2
+10_10,1,2,2,1,1,reversible,D2
+10_11,[2; 3],2,2,1,1,reversible,D2
+10_12,2,3,2,1,1,reversible,D2
+10_13,2,2,2,1,1,reversible,D2
+10_14,2,3,2,1,1,reversible,D2
+10_15,2,3,2,1,1,reversible,D2
+10_16,2,2,2,1,1,reversible,D2
+10_17,1,4,2,1,1,fully amphicheiral,D4
+10_18,1,2,2,1,1,reversible,D2
+10_19,2,3,2,1,1,reversible,D2
+10_20,2,2,2,1,1,reversible,D2
+10_21,2,3,2,1,1,reversible,D2
+10_22,2,3,2,1,1,reversible,D2
+10_23,1,3,2,1,1,reversible,D2
+10_24,2,2,2,1,1,reversible,D2
+10_25,2,3,2,1,1,reversible,D2
+10_26,1,3,2,1,1,reversible,D2
+10_27,1,3,2,1,1,reversible,D2
+10_28,2,2,2,1,1,reversible,D2
+10_29,2,3,2,1,1,reversible,D2
+10_30,1,2,2,1,1,reversible,D2
+10_31,1,2,2,1,1,reversible,D2
+10_32,1,3,2,1,1,reversible,D2
+10_33,1,2,2,1,1,fully amphicheiral,D4
+10_34,2,2,2,1,1,reversible,D2
+10_35,2,2,2,1,1,reversible,D2
+10_36,2,2,2,1,1,reversible,D2
+10_37,2,2,2,1,1,fully amphicheiral,D4
+10_38,2,2,2,1,1,reversible,D2
+10_39,2,3,2,1,1,reversible,D2
+10_40,2,3,2,1,1,reversible,D2
+10_41,2,3,2,1,1,reversible,D2
+10_42,1,3,2,1,1,reversible,D2
+10_43,2,3,2,1,1,fully amphicheiral,D4
+10_44,1,3,2,1,1,reversible,D2
+10_45,2,3,2,1,1,fully amphicheiral,D4
+10_46,3,4,3,1,1,reversible,D1
+10_47,[2; 3],4,3,1,1,reversible,D1
+10_48,2,4,3,1,1,reversible,D1
+10_49,3,3,3,1,1,reversible,D1
+10_50,2,3,3,1,1,reversible,D1
+10_51,[2; 3],3,3,1,1,reversible,D1
+10_52,2,3,3,1,1,reversible,D1
+10_53,3,2,3,1,1,reversible,D1
+10_54,[2; 3],3,3,1,1,reversible,D1
+10_55,2,2,3,1,1,reversible,D1
+10_56,2,3,3,1,1,reversible,D1
+10_57,2,3,3,1,1,reversible,D1
+10_58,2,2,3,1,1,reversible,D2
+10_59,1,3,3,1,1,reversible,D1
+10_60,1,3,3,1,1,reversible,D2
+10_61,[2; 3],3,3,2,2,reversible,D2
+10_62,2,4,3,1,2,reversible,D1
+10_63,2,2,3,2,2,reversible,D2
+10_64,2,4,3,1,2,reversible,D2
+10_65,2,3,3,2,2,reversible,D1
+10_66,3,3,3,1,2,reversible,D2
+10_67,2,2,3,1,2,chiral,Z2
+10_68,2,2,3,1,2,reversible,D2
+10_69,2,3,3,2,2,reversible,D2
+10_70,2,3,3,1,1,reversible,D1
+10_71,1,3,3,1,1,reversible,D1
+10_72,2,3,3,1,1,reversible,D1
+10_73,1,3,3,1,1,reversible,D1
+10_74,2,2,3,2,2,reversible,D2
+10_75,2,3,3,2,2,reversible,D6
+10_76,[2; 3],3,3,1,1,reversible,D2
+10_77,[2; 3],3,3,1,1,reversible,D1
+10_78,2,3,3,1,1,reversible,D2
+10_79,[2; 3],4,3,1,2,negative amphicheiral,D1
+10_80,3,3,3,1,2,chiral,1
+10_81,2,3,3,1,2,negative amphicheiral,D1
+10_82,1,4,3,1,2,chiral,1
+10_83,2,3,3,1,2,chiral,1
+10_84,1,3,3,1,2,chiral,1
+10_85,2,4,3,1,2,chiral,1
+10_86,2,3,3,1,2,chiral,1
+10_87,2,3,3,1,2,chiral,1
+10_88,1,3,3,1,2,negative amphicheiral,D1
+10_89,2,3,3,1,2,reversible,D1
+10_90,2,3,3,1,2,chiral,1
+10_91,1,4,3,1,2,chiral,1
+10_92,2,3,3,1,2,chiral,1
+10_93,2,3,3,1,2,chiral,1
+10_94,2,4,3,1,2,chiral,1
+10_95,1,3,3,1,2,chiral,1
+10_96,2,3,3,1,2,reversible,D1
+10_97,2,2,3,1,2,reversible,D1
+10_98,2,3,3,2,2,chiral,Z2
+10_99,2,4,3,2,2,fully amphicheiral,D2
+10_100,[2; 3],4,3,1,2,reversible,D1
+10_101,3,2,3,2,2,reversible,D1
+10_102,1,3,3,1,2,chiral,1
+10_103,3,3,3,2,2,reversible,D1
+10_104,1,4,3,1,2,reversible,D1
+10_105,2,3,3,1,2,reversible,D1
+10_106,2,4,3,1,2,chiral,1
+10_107,1,3,3,1,2,chiral,1
+10_108,2,3,3,1,2,reversible,D1
+10_109,2,4,3,1,2,negative amphicheiral,D1
+10_110,2,3,3,1,2,chiral,1
+10_111,2,3,3,1,2,reversible,D1
+10_112,2,4,3,1,2,reversible,D1
+10_113,1,3,3,1,2,reversible,D1
+10_114,1,3,3,1,2,reversible,D1
+10_115,2,3,3,1,2,negative amphicheiral,D1
+10_116,2,4,3,1,2,reversible,D1
+10_117,2,3,3,1,2,chiral,1
+10_118,1,4,3,1,2,negative amphicheiral,D1
+10_119,1,3,3,1,2,chiral,1
+10_120,3,2,3,1,2,reversible,D2
+10_121,2,3,3,1,2,reversible,D1
+10_122,2,3,3,2,2,reversible,D2
+10_123,2,4,3,2,2,fully amphicheiral,D10
+10_124,4,4,3,1,1,reversible,Z2
+10_125,2,3,3,1,1,reversible,D1
+10_126,2,3,3,1,1,reversible,D1
+10_127,2,3,3,1,1,reversible,D1
+10_128,3,3,3,1,1,reversible,D1
+10_129,1,2,3,1,1,reversible,D1
+10_130,2,2,3,1,1,reversible,D1
+10_131,1,2,3,1,1,reversible,D1
+10_132,1,2,3,1,1,reversible,D1
+10_133,1,2,3,1,1,reversible,D1
+10_134,3,3,3,1,1,reversible,D1
+10_135,2,2,3,1,1,reversible,D1
+10_136,1,2,3,1,1,reversible,D2
+10_137,1,2,3,1,1,reversible,D1
+10_138,2,3,3,1,1,reversible,D2
+10_139,4,4,3,1,1,reversible,D2
+10_140,2,2,3,2,2,reversible,D1
+10_141,1,3,3,1,2,reversible,D2
+10_142,3,3,3,2,2,reversible,D2
+10_143,1,3,3,1,2,reversible,D1
+10_144,2,2,3,2,2,reversible,D2
+10_145,2,2,3,1,1,reversible,D2
+10_146,1,2,3,1,2,reversible,D2
+10_147,1,2,3,1,2,chiral,Z2
+10_148,2,3,3,1,2,chiral,1
+10_149,2,3,3,1,2,chiral,1
+10_150,2,3,3,1,2,chiral,1
+10_151,2,3,3,1,2,chiral,1
+10_152,4,4,3,1,2,reversible,D1
+10_153,2,3,3,1,2,chiral,1
+10_154,3,3,3,1,2,reversible,D1
+10_155,2,3,3,2,2,reversible,D2
+10_156,1,3,3,1,2,reversible,D1
+10_157,2,3,3,2,2,reversible,D4
+10_158,2,3,3,1,2,reversible,D1
+10_159,1,3,3,1,2,reversible,D1
+10_160,2,3,3,2,2,reversible,D1
+10_161,3,3,3,1,1,reversible,D1
+10_162,2,2,3,1,2,reversible,D1
+10_163,2,3,3,1,2,reversible,D1
+10_164,1,2,3,1,2,reversible,D1
+10_165,2,2,3,1,2,reversible,D1
+11a_1,2,3,3,,1,reversible,D1
+11a_2,2,3,3,,2,chiral,1
+11a_3,2,4,3,,2,chiral,1
+11a_4,2,3,3,,1,reversible,D1
+11a_5,2,3,3,,1,reversible,D1
+11a_6,2,3,3,,1,reversible,D2
+11a_7,2,4,3,,1,reversible,D1
+11a_8,1,3,3,,1,reversible,D1
+11a_9,2,4,3,,1,reversible,D1
+11a_10,1,3,3,,1,reversible,D1
+11a_11,1,3,3,,1,reversible,D1
+11a_12,1,3,3,,1,reversible,D1
+11a_13,2,2,2,,1,reversible,D2
+11a_14,[2; 3],4,3,,2,reversible,D1
+11a_15,2,4,3,,2,chiral,1
+11a_16,2,3,3,,1,reversible,D1
+11a_17,2,3,3,,2,chiral,1
+11a_18,[2; 3],3,3,,2,chiral,1
+11a_19,2,4,3,,2,chiral,1
+11a_20,[2; 3],3,3,,2,chiral,1
+11a_21,2,2,3,,1,reversible,D1
+11a_22,2,4,3,,2,chiral,1
+11a_23,2,3,3,,1,reversible,D1
+11a_24,2,4,3,,2,chiral,1
+11a_25,2,4,3,,2,chiral,1
+11a_26,2,4,3,,2,chiral,1
+11a_27,2,3,3,,2,chiral,1
+11a_28,2,4,3,,2,chiral,1
+11a_29,2,3,3,,2,chiral,1
+11a_30,2,3,3,,2,chiral,1
+11a_31,2,3,3,,1,reversible,D1
+11a_32,2,3,3,,1,reversible,D1
+11a_33,2,4,3,,1,reversible,D1
+11a_34,1,4,3,,1,reversible,D1
+11a_35,1,4,3,,1,reversible,D1
+11a_36,2,3,3,,1,reversible,D1
+11a_37,2,3,3,,1,reversible,D1
+11a_38,2,3,3,,2,chiral,1
+11a_39,2,3,3,,1,reversible,D1
+11a_40,2,4,3,,1,reversible,D1
+11a_41,1,3,3,,1,reversible,D1
+11a_42,2,3,3,,1,reversible,D1
+11a_43,3,3,4,,2,reversible,D2
+11a_44,2,4,4,,2,reversible,D1
+11a_45,[2; 3],2,3,,1,reversible,D1
+11a_46,2,3,3,,1,reversible,D2
+11a_47,2,4,4,,2,reversible,D2
+11a_48,2,3,3,,1,reversible,D1
+11a_49,[2; 3],3,3,,2,chiral,1
+11a_50,2,2,3,,1,reversible,D1
+11a_51,2,3,3,,1,reversible,D2
+11a_52,2,3,3,,2,chiral,1
+11a_53,[2; 3],4,3,,2,chiral,1
+11a_54,2,3,3,,2,chiral,1
+11a_55,2,4,3,,1,reversible,D1
+11a_56,1,3,3,,1,reversible,D1
+11a_57,2,4,4,,2,reversible,D1
+11a_58,2,3,3,,1,reversible,D1
+11a_59,2,2,2,,1,reversible,D2
+11a_60,[2; 3],3,3,,1,reversible,D1
+11a_61,2,2,3,,1,reversible,D1
+11a_62,3,4,3,,1,reversible,D1
+11a_63,[2; 3],3,3,,1,reversible,D1
+11a_64,[2; 3],3,3,,1,reversible,D1
+11a_65,2,2,2,,1,reversible,D2
+11a_66,2,4,3,,2,chiral,1
+11a_67,2,3,3,,2,chiral,1
+11a_68,2,4,3,,2,chiral,1
+11a_69,1,3,3,,2,chiral,1
+11a_70,1,3,3,,2,chiral,1
+11a_71,1,4,3,,2,chiral,1
+11a_72,2,4,3,,2,chiral,1
+11a_73,1,4,3,,2,reversible,D1
+11a_74,2,4,3,,1,reversible,D1
+11a_75,2,3,2,,1,reversible,D2
+11a_76,2,4,3,,2,chiral,1
+11a_77,1,3,2,,1,reversible,D2
+11a_78,1,3,3,,2,reversible,D2
+11a_79,2,4,3,,2,chiral,1
+11a_80,1,4,3,,2,chiral,1
+11a_81,2,4,3,,2,chiral,1
+11a_82,1,4,3,,1,reversible,D1
+11a_83,[2; 3],4,3,,1,reversible,D1
+11a_84,2,3,2,,1,reversible,D2
+11a_85,2,3,2,,1,reversible,D2
+11a_86,1,4,3,,2,reversible,D1
+11a_87,2,3,3,,2,reversible,D1
+11a_88,1,4,3,,2,reversible,D1
+11a_89,2,3,2,,1,reversible,D2
+11a_90,2,3,2,,1,reversible,D2
+11a_91,1,3,2,,1,reversible,D2
+11a_92,2,4,3,,1,reversible,D1
+11a_93,2,3,2,,1,reversible,D2
+11a_94,3,3,3,,1,reversible,D1
+11a_95,2,2,2,,1,reversible,D2
+11a_96,1,3,2,,1,reversible,D2
+11a_97,2,3,3,,2,reversible,D1
+11a_98,1,2,2,,1,reversible,D2
+11a_99,2,4,3,,2,reversible,D1
+11a_100,2,3,3,,2,reversible,D2
+11a_101,1,3,3,,2,chiral,1
+11a_102,2,3,3,,2,chiral,1
+11a_103,2,2,3,,2,chiral,Z2
+11a_104,1,3,3,,2,chiral,Z2
+11a_105,[2; 3],3,3,,2,reversible,D1
+11a_106,1,4,3,,2,reversible,D2
+11a_107,2,3,3,,2,reversible,D2
+11a_108,2,4,3,,2,reversible,D1
+11a_109,2,4,3,,2,reversible,D1
+11a_110,2,3,2,,1,reversible,D2
+11a_111,2,3,2,,1,reversible,D2
+11a_112,2,4,3,,2,chiral,1
+11a_113,2,4,3,,2,chiral,1
+11a_114,1,3,3,,2,chiral,1
+11a_115,2,3,3,,2,chiral,1
+11a_116,2,3,3,,2,chiral,1
+11a_117,2,3,2,,1,reversible,D2
+11a_118,2,3,3,,1,reversible,D1
+11a_119,2,2,2,,1,reversible,D4
+11a_120,2,3,2,,1,reversible,D2
+11a_121,1,3,2,,1,reversible,D4
+11a_122,1,3,3,,2,chiral,1
+11a_123,3,2,3,,2,reversible,D1
+11a_124,3,3,3,,2,reversible,D1
+11a_125,2,4,3,,2,chiral,1
+11a_126,[2; 3],4,3,,2,reversible,D1
+11a_127,2,4,3,,2,chiral,1
+11a_128,2,3,3,,2,reversible,D2
+11a_129,2,4,3,,2,chiral,1
+11a_130,2,3,3,,2,chiral,1
+11a_131,2,4,3,,2,chiral,1
+11a_132,2,3,3,,2,chiral,1
+11a_133,2,2,3,,2,reversible,D1
+11a_134,2,3,3,,2,reversible,D2
+11a_135,2,3,3,,2,reversible,D1
+11a_136,1,3,3,,2,chiral,1
+11a_137,[2; 3],3,3,,2,chiral,1
+11a_138,1,3,3,,2,chiral,1
+11a_139,1,4,3,,2,reversible,D1
+11a_140,2,3,2,,1,reversible,D2
+11a_141,2,3,3,,2,chiral,1
+11a_142,3,4,3,,2,reversible,D1
+11a_143,2,3,3,,2,reversible,D1
+11a_144,[2; 3],3,2,,1,reversible,D2
+11a_145,2,2,2,,1,reversible,D2
+11a_146,1,4,3,,2,chiral,1
+11a_147,2,4,3,,2,chiral,1
+11a_148,2,2,3,,2,reversible,D1
+11a_149,1,3,3,,2,chiral,1
+11a_150,2,3,3,,2,chiral,1
+11a_151,2,4,3,,2,chiral,1
+11a_152,2,3,3,,2,chiral,1
+11a_153,2,3,3,,1,reversible,D1
+11a_154,2,2,2,,1,reversible,D2
+11a_155,2,3,3,,2,reversible,D1
+11a_156,2,4,3,,2,chiral,1
+11a_157,2,4,3,,2,chiral,1
+11a_158,2,4,3,,2,reversible,D1
+11a_159,2,3,2,,1,reversible,D2
+11a_160,1,4,3,,2,reversible,D1
+11a_161,[2; 3],3,3,,1,reversible,D1
+11a_162,2,4,3,,2,chiral,1
+11a_163,2,4,3,,2,chiral,1
+11a_164,2,4,3,,2,chiral,1
+11a_165,2,3,3,,2,reversible,D1
+11a_166,2,2,2,,1,reversible,D2
+11a_167,1,3,3,,2,chiral,1
+11a_168,1,3,3,,2,chiral,1
+11a_169,2,3,3,,2,chiral,1
+11a_170,2,4,3,,2,reversible,D1
+11a_171,2,4,3,,2,reversible,D1
+11a_172,2,3,3,,2,chiral,1
+11a_173,2,3,3,,2,reversible,D1
+11a_174,2,4,2,,1,reversible,D2
+11a_175,2,4,2,,1,reversible,D4
+11a_176,2,4,2,,1,reversible,D2
+11a_177,2,4,2,,1,reversible,D2
+11a_178,2,3,2,,1,reversible,D2
+11a_179,2,4,2,,1,reversible,D4
+11a_180,1,4,2,,1,reversible,D2
+11a_181,2,3,3,,2,reversible,D2
+11a_182,2,4,2,,1,reversible,D2
+11a_183,2,3,2,,1,reversible,D2
+11a_184,1,4,2,,1,reversible,D2
+11a_185,2,3,2,,1,reversible,D2
+11a_186,3,3,2,,1,reversible,D4
+11a_187,1,3,3,,2,chiral,Z2
+11a_188,2,3,2,,1,reversible,D2
+11a_189,1,4,3,,2,chiral,1
+11a_190,1,3,2,,1,reversible,D2
+11a_191,3,3,2,,1,reversible,D2
+11a_192,[2; 3],2,2,,1,reversible,D2
+11a_193,2,3,2,,1,reversible,D2
+11a_194,2,4,3,,2,reversible,D2
+11a_195,1,2,2,,1,reversible,D2
+11a_196,2,4,3,,2,reversible,D1
+11a_197,[2; 3],3,3,,2,reversible,D1
+11a_198,1,3,3,,2,reversible,D2
+11a_199,2,3,3,,2,chiral,Z2
+11a_200,2,2,3,,2,reversible,D2
+11a_201,2,2,3,,2,chiral,Z2
+11a_202,[2; 3],3,3,,2,reversible,D2
+11a_203,3,4,2,,1,reversible,D2
+11a_204,2,3,2,,1,reversible,D2
+11a_205,2,3,2,,1,reversible,D2
+11a_206,3,4,2,,1,reversible,D2
+11a_207,2,3,2,,1,reversible,D2
+11a_208,2,3,2,,1,reversible,D2
+11a_209,1,3,3,,2,chiral,1
+11a_210,1,2,2,,1,reversible,D2
+11a_211,2,2,2,,1,reversible,D2
+11a_212,2,3,3,,2,reversible,D1
+11a_213,2,3,3,,2,chiral,1
+11a_214,2,2,3,,2,reversible,D2
+11a_215,2,4,3,,2,reversible,D1
+11a_216,1,4,3,,2,chiral,1
+11a_217,2,4,3,,2,chiral,1
+11a_218,2,3,3,,2,chiral,1
+11a_219,2,2,3,,2,reversible,D2
+11a_220,2,3,2,,1,reversible,D2
+11a_221,2,4,3,,1,reversible,D1
+11a_222,1,3,3,,1,reversible,D1
+11a_223,3,4,3,,2,reversible,D2
+11a_224,2,3,2,,1,reversible,D2
+11a_225,2,3,2,,1,reversible,D2
+11a_226,1,2,2,,1,reversible,D2
+11a_227,3,3,3,,2,reversible,D1
+11a_228,2,3,3,,2,reversible,D1
+11a_229,2,2,2,,1,reversible,D2
+11a_230,1,2,2,,1,reversible,D2
+11a_231,2,4,4,,2,reversible,D2
+11a_232,2,4,3,,2,chiral,Z2
+11a_233,1,4,3,,2,chiral,1
+11a_234,4,4,2,,1,reversible,D2
+11a_235,3,3,2,,1,reversible,D2
+11a_236,3,3,2,,1,reversible,D2
+11a_237,3,2,3,,2,reversible,D2
+11a_238,2,2,2,,1,reversible,D2
+11a_239,2,4,3,,2,reversible,D2
+11a_240,4,4,3,,1,reversible,D1
+11a_241,3,3,3,,1,reversible,D1
+11a_242,3,3,2,,1,reversible,D2
+11a_243,2,2,2,,1,reversible,D2
+11a_244,3,3,3,,2,chiral,Z2
+11a_245,3,3,3,,1,reversible,D2
+11a_246,2,2,2,,1,reversible,D2
+11a_247,1,1,2,,1,reversible,D2
+11a_248,2,4,3,,2,reversible,D1
+11a_249,2,3,3,,2,reversible,D1
+11a_250,2,4,3,,2,reversible,D1
+11a_251,2,4,3,,2,chiral,1
+11a_252,2,4,3,,2,chiral,1
+11a_253,2,4,3,,2,chiral,1
+11a_254,2,4,3,,2,chiral,1
+11a_255,1,4,3,,2,chiral,1
+11a_256,1,3,3,,2,chiral,1
+11a_257,1,4,3,,1,reversible,D1
+11a_258,2,3,3,,1,reversible,D1
+11a_259,3,4,3,,1,reversible,D1
+11a_260,2,3,3,,1,reversible,D1
+11a_261,2,4,3,,2,chiral,1
+11a_262,2,3,3,,2,chiral,1
+11a_263,4,4,4,,2,reversible,D2
+11a_264,1,4,3,,2,chiral,1
+11a_265,2,3,3,,2,chiral,1
+11a_266,1,4,3,,2,reversible,D1
+11a_267,1,4,3,,2,chiral,1
+11a_268,2,4,3,,2,chiral,1
+11a_269,2,4,3,,2,chiral,1
+11a_270,2,3,3,,2,chiral,1
+11a_271,2,3,3,,2,reversible,D1
+11a_272,1,3,3,,2,chiral,1
+11a_273,2,3,3,,2,chiral,1
+11a_274,2,4,3,,2,chiral,1
+11a_275,2,3,3,,2,chiral,1
+11a_276,2,3,3,,2,chiral,1
+11a_277,2,4,3,,2,reversible,D1
+11a_278,2,3,3,,2,reversible,D1
+11a_279,2,3,3,,2,reversible,D1
+11a_280,1,2,3,,2,reversible,D1
+11a_281,2,4,3,,2,reversible,D1
+11a_282,1,4,3,,2,chiral,1
+11a_283,1,3,3,,2,chiral,1
+11a_284,2,4,3,,2,chiral,1
+11a_285,2,3,3,,2,reversible,D1
+11a_286,2,4,3,,2,chiral,1
+11a_287,1,4,3,,2,chiral,1
+11a_288,2,4,3,,2,reversible,D1
+11a_289,1,4,3,,2,chiral,1
+11a_290,1,3,3,,2,chiral,1
+11a_291,[3; 4],3,3,,2,reversible,D1
+11a_292,3,2,3,,2,reversible,D1
+11a_293,[2;3],4,3,,2,reversible,D1
+11a_294,2,3,3,,2,reversible,D1
+11a_295,2,3,3,,2,chiral,1
+11a_296,2,2,3,,2,chiral,1
+11a_297,2,3,3,,2,reversible,D2
+11a_298,[3; 4],3,3,,2,chiral,1
+11a_299,[2; 3],2,3,,2,chiral,1
+11a_300,1,4,3,,2,chiral,1
+11a_301,2,4,3,,2,chiral,1
+11a_302,2,4,3,,2,reversible,D1
+11a_303,2,3,3,,2,chiral,1
+11a_304,[2; 3],3,3,,2,reversible,D1
+11a_305,2,4,3,,2,reversible,D1
+11a_306,2,4,2,,1,reversible,D4
+11a_307,1,3,2,,1,reversible,D2
+11a_308,3,4,2,,1,reversible,D2
+11a_309,2,3,2,,1,reversible,D2
+11a_310,2,3,2,,1,reversible,D2
+11a_311,1,2,2,,1,reversible,D2
+11a_312,2,3,3,,2,reversible,D1
+11a_313,2,2,3,,2,reversible,D1
+11a_314,2,4,3,,2,reversible,D1
+11a_315,2,4,3,,2,chiral,1
+11a_316,2,4,3,,2,chiral,1
+11a_317,2,3,3,,2,reversible,D1
+11a_318,3,3,3,,2,reversible,D1
+11a_319,[3; 4],3,3,,2,chiral,1
+11a_320,[2; 3],2,3,,2,chiral,1
+11a_321,2,3,3,,2,reversible,D1
+11a_322,2,3,3,,2,chiral,1
+11a_323,2,3,3,,2,chiral,1
+11a_324,2,2,3,,2,reversible,D1
+11a_325,2,2,3,,2,reversible,D1
+11a_326,1,4,3,,2,chiral,1
+11a_327,2,3,3,,2,reversible,D1
+11a_328,2,3,3,,2,chiral,1
+11a_329,[2; 3],2,3,,2,reversible,D1
+11a_330,2,4,3,,2,chiral,1
+11a_331,2,3,3,,2,chiral,1
+11a_332,2,4,3,,2,reversible,D2
+11a_333,2,2,2,,1,reversible,D4
+11a_334,4,4,2,,1,reversible,D2
+11a_335,3,3,2,,1,reversible,D2
+11a_336,[3; 4],3,2,,1,reversible,D2
+11a_337,3,2,2,,1,reversible,D2
+11a_338,4,4,3,,2,reversible,D2
+11a_339,3,3,2,,1,reversible,D2
+11a_340,[3; 4],3,3,,2,reversible,D2
+11a_341,[2; 3],2,2,,1,reversible,D2
+11a_342,2,2,2,,1,reversible,D2
+11a_343,2,1,2,,1,reversible,D2
+11a_344,2,3,3,,2,chiral,1
+11a_345,1,2,3,,2,chiral,1
+11a_346,[2; 3],4,3,,2,reversible,D1
+11a_347,2,3,3,,2,reversible,D1
+11a_348,2,4,3,,2,reversible,D1
+11a_349,2,3,3,,2,reversible,D1
+11a_350,2,4,3,,2,reversible,D1
+11a_351,1,4,3,,2,reversible,D2
+11a_352,2,3,3,,2,reversible,D2
+11a_353,[3; 4],3,3,,2,reversible,D1
+11a_354,[2; 3; 4],2,3,,2,reversible,D1
+11a_355,4,4,2,,1,reversible,D2
+11a_356,[3; 4],3,2,,1,reversible,D2
+11a_357,[3; 4],3,2,,1,reversible,D4
+11a_358,3,3,2,,1,reversible,D2
+11a_359,3,2,2,,1,reversible,D2
+11a_360,[2; 3],2,2,,1,reversible,D2
+11a_361,[3; 4],2,3,,2,reversible,D2
+11a_362,[2; 3],1,3,,2,reversible,D2
+11a_363,[2; 3],1,2,,1,reversible,D4
+11a_364,4,4,2,,1,reversible,D2
+11a_365,[3; 4],3,2,,1,reversible,D4
+11a_366,[3; 4],2,3,,2,reversible,D6
+11a_367,5,5,2,,1,reversible,Z2
+11n_1,1,2,3,,1,reversible,D1
+11n_2,2,3,3,,1,reversible,D1
+11n_3,[1; 2],2,3,,1,reversible,D1
+11n_4,2,3,3,,,chiral,1
+11n_5,2,3,3,,,chiral,1
+11n_6,2,3,3,,,chiral,1
+11n_7,2,3,3,,,chiral,1
+11n_8,2,3,3,,,chiral,1
+11n_9,3,4,3,,,chiral,1
+11n_10,2,3,3,,,chiral,1
+11n_11,2,3,3,,,chiral,1
+11n_12,1,2,3,,1,reversible,D1
+11n_13,3,4,3,,1,reversible,D1
+11n_14,2,3,3,,1,reversible,D1
+11n_15,2,3,3,,1,reversible,D1
+11n_16,2,3,3,,1,reversible,D1
+11n_17,[1; 2],2,3,,1,reversible,D1
+11n_18,1,2,3,,1,reversible,D1
+11n_19,2,3,3,,1,reversible,D1
+11n_20,1,2,3,,1,reversible,D1
+11n_21,1,3,3,,,chiral,1
+11n_22,1,3,3,,,chiral,1
+11n_23,[2; 3],4,3,,,chiral,1
+11n_24,2,3,3,,,chiral,1
+11n_25,1,3,3,,,chiral,1
+11n_26,1,3,3,,,chiral,1
+11n_27,3,4,3,,,chiral,1
+11n_28,1,2,3,,1,reversible,D1
+11n_29,2,2,3,,1,reversible,D1
+11n_30,[2; 3],3,3,,1,reversible,D1
+11n_31,2,3,3,,,chiral,1
+11n_32,2,3,3,,,chiral,1
+11n_33,2,3,3,,,chiral,1
+11n_34,1,3,3,,,chiral,1
+11n_35,2,3,3,,,chiral,1
+11n_36,2,4,3,,,chiral,1
+11n_37,2,3,3,,,chiral,1
+11n_38,1,2,3,,1,reversible,D1
+11n_39,1,2,3,,,chiral,Z2
+11n_40,2,3,3,,,chiral,1
+11n_41,2,4,3,,,chiral,1
+11n_42,1,2,3,,,chiral,1
+11n_43,2,3,3,,,chiral,1
+11n_44,2,4,3,,,chiral,1
+11n_45,1,3,3,,,reversible,D1
+11n_46,2,3,3,,,chiral,1
+11n_47,2,4,3,,,chiral,1
+11n_48,1,3,3,,,reversible,D1
+11n_49,2,2,3,,,reversible,D1
+11n_50,1,2,3,,,chiral,Z2
+11n_51,[1; 2],3,3,,1,reversible,D1
+11n_52,1,3,3,,1,reversible,D1
+11n_53,1,3,3,,1,reversible,D1
+11n_54,[1; 2],3,3,,1,reversible,D1
+11n_55,1,3,3,,1,reversible,D1
+11n_56,1,3,3,,1,reversible,D1
+11n_57,3,4,3,,1,reversible,D1
+11n_58,2,3,3,,1,reversible,D1
+11n_59,2,3,3,,1,reversible,D1
+11n_60,[1; 2],4,3,,1,reversible,D1
+11n_61,2,4,3,,1,reversible,D1
+11n_62,1,2,3,,1,reversible,D1
+11n_63,1,2,3,,1,reversible,D1
+11n_64,2,3,3,,1,reversible,D1
+11n_65,[2; 3],2,3,,,reversible,D1
+11n_66,2,3,3,,,reversible,D1
+11n_67,2,2,3,,,chiral,1
+11n_68,2,2,3,,,chiral,1
+11n_69,2,3,3,,,chiral,1
+11n_70,2,3,3,,1,reversible,D1
+11n_71,2,3,4,,,reversible,D2
+11n_72,2,3,4,,,reversible,D2
+11n_73,2,3,4,,,reversible,D1
+11n_74,2,2,4,,,reversible,D2
+11n_75,2,3,4,,,reversible,D1
+11n_76,3,4,4,,,reversible,D1
+11n_77,4,4,4,,,reversible,D2
+11n_78,[2; 3],4,4,,,reversible,D2
+11n_79,2,2,3,,1,reversible,D1
+11n_80,2,3,3,,,chiral,1
+11n_81,3,4,4,,,reversible,D2
+11n_82,1,3,3,,,reversible,D1
+11n_83,2,2,3,,,reversible,D1
+11n_84,1,2,3,,,reversible,D2
+11n_85,1,3,3,,,reversible,D1
+11n_86,1,3,3,,,reversible,D1
+11n_87,1,3,3,,,reversible,D2
+11n_88,3,4,3,,,reversible,D1
+11n_89,2,3,3,,,reversible,D1
+11n_90,2,3,3,,,reversible,D1
+11n_91,2,2,3,,,reversible,D1
+11n_92,2,3,3,,,reversible,D1
+11n_93,3,3,3,,,chiral,1
+11n_94,[1; 2],3,3,,,reversible,D1
+11n_95,2,3,3,,,reversible,D1
+11n_96,1,3,3,,,reversible,D1
+11n_97,2,2,3,,,chiral,1
+11n_98,2,3,3,,,reversible,D1
+11n_99,[2; 3],2,3,,,reversible,D1
+11n_100,1,2,3,,,chiral,Z2
+11n_101,1,2,3,,,reversible,D2
+11n_102,[1; 2],2,3,,,reversible,D2
+11n_103,2,3,3,,,reversible,D2
+11n_104,3,4,3,,,reversible,D2
+11n_105,2,3,3,,,reversible,D2
+11n_106,2,3,3,,,reversible,D1
+11n_107,2,4,3,,,reversible,D2
+11n_108,2,3,3,,,chiral,1
+11n_109,2,3,3,,,chiral,1
+11n_110,1,3,3,,,chiral,1
+11n_111,1,3,3,,,reversible,D1
+11n_112,[1; 2],3,3,,,reversible,D1
+11n_113,2,2,3,,,reversible,D1
+11n_114,1,2,3,,,chiral,1
+11n_115,[1; 2],3,3,,,reversible,D1
+11n_116,[1; 2],2,3,,,chiral,1
+11n_117,2,2,3,,,reversible,D1
+11n_118,2,3,3,,,reversible,D1
+11n_119,[1; 2],3,3,,,reversible,D1
+11n_120,[1; 2],4,3,,,chiral,1
+11n_121,2,3,3,,,reversible,D1
+11n_122,[1; 2],2,3,,,chiral,Z2
+11n_123,1,2,3,,,reversible,D1
+11n_124,1,3,3,,,chiral,1
+11n_125,1,3,3,,,reversible,D1
+11n_126,3,3,3,,,reversible,D3
+11n_127,2,3,3,,,reversible,D1
+11n_128,[1; 2],3,3,,,chiral,1
+11n_129,[1; 2],3,3,,,chiral,1
+11n_130,1,3,3,,,chiral,1
+11n_131,1,3,3,,,chiral,1
+11n_132,2,2,3,,,chiral,1
+11n_133,3,4,3,,,reversible,D3
+11n_134,1,2,3,,,chiral,1
+11n_135,2,3,3,,,reversible,D1
+11n_136,3,3,3,,,reversible,D1
+11n_137,[2; 3],3,3,,,reversible,D2
+11n_138,[1; 2],2,3,,,reversible,D2
+11n_139,[1; 2],1,3,,,chiral,Z2
+11n_140,2,2,3,,,reversible,D2
+11n_141,[1; 2; 3],1,3,,,reversible,D2
+11n_142,[1; 2],2,3,,,reversible,D1
+11n_143,1,3,3,,,reversible,D1
+11n_144,2,3,3,,,reversible,D1
+11n_145,1,3,3,,,reversible,D1
+11n_146,2,3,3,,,reversible,D1
+11n_147,2,4,3,,,chiral,1
+11n_148,3,4,3,,,reversible,D2
+11n_149,2,4,3,,,reversible,D1
+11n_150,2,3,3,,,reversible,D1
+11n_151,1,2,3,,,chiral,Z2
+11n_152,1,3,3,,,reversible,D1
+11n_153,1,4,3,,,reversible,D1
+11n_154,1,3,3,,,chiral,1
+11n_155,2,3,3,,,reversible,D1
+11n_156,1,3,3,,,reversible,D1
+11n_157,2,3,3,,,reversible,D1
+11n_158,2,4,3,,,reversible,D1
+11n_159,1,3,3,,,chiral,1
+11n_160,[1; 2],3,3,,,chiral,1
+11n_161,[1; 2],3,3,,,reversible,D1
+11n_162,[1; 2],2,3,,,reversible,D1
+11n_163,2,3,3,,,reversible,D1
+11n_164,2,3,3,,,reversible,D2
+11n_165,2,3,3,,,reversible,D1
+11n_166,[1; 2],4,3,,,chiral,1
+11n_167,2,3,3,,,reversible,D1
+11n_168,2,3,3,,,reversible,D1
+11n_169,[3; 4],3,3,,,reversible,D1
+11n_170,2,2,3,,,reversible,D1
+11n_171,[2; 3],2,3,,,reversible,D1
+11n_172,[1; 2],3,3,,,chiral,1
+11n_173,[2; 3],4,3,,,reversible,D1
+11n_174,2,3,3,,,chiral,1
+11n_175,2,3,3,,,reversible,D1
+11n_176,1,3,3,,,chiral,1
+11n_177,[1; 2],4,3,,,chiral,1
+11n_178,2,3,3,,,reversible,D1
+11n_179,[1; 2],3,3,,,reversible,D1
+11n_180,[3; 4],3,3,,,reversible,D1
+11n_181,[2; 3],2,3,,,reversible,D1
+11n_182,[1; 2],4,3,,,reversible,D1
+11n_183,3,3,3,,,reversible,D2
+11n_184,1,3,3,,,chiral,Z2
+11n_185,2,3,3,,,reversible,D2
+12a_1,1,4,3,,2,chiral,1
+12a_2,1,4,3,,2,chiral,1
+12a_3,2,3,3,,1,reversible,D1
+12a_4,2,4,3,,2,negative amphicheiral,D1
+12a_5,2,3,3,,2,chiral,1
+12a_6,1,4,3,,2,chiral,1
+12a_7,2,4,3,,2,chiral,1
+12a_8,1,4,3,,2,chiral,1
+12a_9,2,3,3,,1,reversible,D1
+12a_10,2,3,3,,2,chiral,1
+12a_11,2,4,3,,2,chiral,1
+12a_12,2,3,3,,1,reversible,D1
+12a_13,2,4,3,,2,chiral,1
+12a_14,2,4,3,,2,chiral,1
+12a_15,2,4,3,,2,chiral,1
+12a_16,2,4,3,,1,reversible,D1
+12a_17,2,4,3,,1,reversible,D1
+12a_18,2,4,3,,1,reversible,D1
+12a_19,1,4,3,,1,reversible,D1
+12a_20,1,4,3,,1,reversible,D1
+12a_21,2,3,3,,1,reversible,D1
+12a_22,1,3,3,,1,reversible,D1
+12a_23,2,3,3,,2,chiral,1
+12a_24,2,4,3,,1,reversible,D1
+12a_25,1,3,3,,1,reversible,D2
+12a_26,2,4,3,,1,reversible,D1
+12a_27,1,3,3,,1,reversible,D1
+12a_28,1,3,3,,1,reversible,D1
+12a_29,2,4,4,,2,reversible,D1
+12a_30,2,4,4,,2,reversible,D1
+12a_31,1,3,3,,1,reversible,D1
+12a_32,2,3,3,,1,reversible,D1
+12a_33,2,4,4,,2,reversible,D1
+12a_34,3,4,3,,1,reversible,D1
+12a_35,[2; 3],3,3,,1,reversible,D1
+12a_36,3,4,4,,2,reversible,D1
+12a_37,[2; 3],3,3,,1,reversible,D1
+12a_38,2,2,2,,1,reversible,D2
+12a_39,2,4,3,,2,chiral,1
+12a_40,1,4,3,,2,chiral,1
+12a_41,[2; 3],4,3,,2,chiral,1
+12a_42,2,3,3,,1,reversible,D1
+12a_43,3,3,3,,2,chiral,1
+12a_44,[2; 3],3,3,,2,reversible,D1
+12a_45,[2; 3],4,3,,2,chiral,1
+12a_46,2,3,3,,2,chiral,1
+12a_47,[2; 3],3,3,,2,chiral,1
+12a_48,2,4,3,,2,chiral,1
+12a_49,[2; 3],3,3,,2,chiral,1
+12a_50,[2; 3],4,3,,2,chiral,1
+12a_51,2,3,3,,2,chiral,1
+12a_52,4,4,3,,2,chiral,1
+12a_53,3,3,3,,2,chiral,1
+12a_54,2,3,3,,2,chiral,1
+12a_55,3,3,3,,2,chiral,1
+12a_56,2,2,3,,1,reversible,D1
+12a_57,2,3,3,,2,chiral,1
+12a_58,1,4,3,,2,negative amphicheiral,D1
+12a_59,2,4,3,,2,chiral,1
+12a_60,2,4,3,,2,chiral,1
+12a_61,1,4,3,,2,chiral,1
+12a_62,2,3,3,,1,reversible,D1
+12a_63,2,4,3,,2,chiral,1
+12a_64,[2; 3],3,3,,2,chiral,Z2
+12a_65,[2; 3],4,3,,2,chiral,1
+12a_66,2,4,3,,2,chiral,1
+12a_67,2,4,3,,2,chiral,1
+12a_68,2,3,3,,2,chiral,1
+12a_69,2,4,3,,2,chiral,1
+12a_70,2,4,3,,2,chiral,1
+12a_71,2,4,3,,2,chiral,1
+12a_72,2,3,3,,2,chiral,1
+12a_73,1,3,3,,2,chiral,1
+12a_74,2,4,3,,2,reversible,D1
+12a_75,[2; 3],3,3,,2,chiral,1
+12a_76,2,2,3,,2,chiral,1
+12a_77,2,4,3,,1,reversible,D1
+12a_78,[2; 3],4,3,,1,reversible,D1
+12a_79,2,4,3,,2,reversible,D1
+12a_80,1,4,3,,2,chiral,1
+12a_81,2,3,3,,1,reversible,D1
+12a_82,3,3,3,,1,reversible,D1
+12a_83,2,3,3,,1,reversible,D1
+12a_84,2,4,3,,1,reversible,D1
+12a_85,[2; 3],4,3,,1,reversible,D1
+12a_86,[2; 3],3,3,,1,reversible,D1
+12a_87,2,4,3,,1,reversible,D1
+12a_88,2,4,3,,2,chiral,1
+12a_89,[2; 3],3,3,,2,chiral,1
+12a_90,2,4,3,,2,chiral,1
+12a_91,2,4,3,,2,chiral,1
+12a_92,2,4,3,,2,chiral,1
+12a_93,4,4,3,,2,chiral,1
+12a_94,[3; 4],3,3,,2,chiral,1
+12a_95,2,3,3,,1,reversible,D1
+12a_96,3,3,3,,1,reversible,D1
+12a_97,[2; 3],2,3,,1,reversible,D1
+12a_98,2,4,3,,1,reversible,D1
+12a_99,2,4,3,,1,reversible,D1
+12a_100,2,3,3,,2,chiral,1
+12a_101,2,4,3,,2,chiral,1
+12a_102,[3; 4],3,3,,2,chiral,1
+12a_103,[2; 3],3,3,,2,reversible,D1
+12a_104,[2; 3],3,3,,1,reversible,D1
+12a_105,3,4,3,,2,chiral,1
+12a_106,2,3,3,,1,reversible,D1
+12a_107,[3; 4],3,3,,2,chiral,1
+12a_108,2,4,3,,2,chiral,1
+12a_109,2,3,3,,2,chiral,1
+12a_110,2,3,3,,1,reversible,D1
+12a_111,2,4,3,,2,chiral,1
+12a_112,2,4,3,,1,reversible,D1
+12a_113,2,4,4,,2,reversible,D2
+12a_114,[2; 3],3,4,,2,reversible,D2
+12a_115,2,4,3,,2,chiral,1
+12a_116,2,4,4,,2,reversible,D1
+12a_117,[2; 3],3,4,,2,reversible,D1
+12a_118,2,3,3,,1,reversible,D1
+12a_119,2,4,4,,2,reversible,D2
+12a_120,2,4,3,,2,chiral,1
+12a_121,1,3,3,,1,reversible,D1
+12a_122,2,4,4,,2,reversible,D1
+12a_123,2,4,3,,2,chiral,1
+12a_124,2,3,3,,1,reversible,D1
+12a_125,[2; 3],3,3,,2,negative amphicheiral,D1
+12a_126,2,4,3,,2,chiral,1
+12a_127,[2; 3],3,3,,2,chiral,1
+12a_128,2,2,3,,1,reversible,D1
+12a_129,2,4,3,,2,chiral,1
+12a_130,2,3,3,,1,reversible,D1
+12a_131,2,4,3,,2,chiral,1
+12a_132,2,4,3,,2,chiral,1
+12a_133,2,4,3,,2,chiral,1
+12a_134,2,4,3,,2,chiral,1
+12a_135,2,3,3,,2,chiral,1
+12a_136,2,4,3,,2,chiral,1
+12a_137,2,4,3,,2,chiral,1
+12a_138,1,4,3,,2,chiral,1
+12a_139,2,4,3,,2,chiral,1
+12a_140,2,3,3,,2,chiral,1
+12a_141,2,4,3,,1,reversible,D1
+12a_142,2,4,3,,1,reversible,D1
+12a_143,4,4,3,,1,reversible,D1
+12a_144,[3; 4],3,3,,1,reversible,D1
+12a_145,[3; 4],3,3,,1,reversible,D1
+12a_146,[3; 4],5,3,,1,reversible,D1
+12a_147,[2; 3; 4],4,3,,1,reversible,D1
+12a_148,[2; 3; 4],4,3,,1,reversible,D1
+12a_149,2,4,3,,1,reversible,D1
+12a_150,[2; 3; 4],3,3,,2,reversible,D1
+12a_151,1,3,3,,1,reversible,D1
+12a_152,[2; 3],2,3,,1,reversible,D1
+12a_153,[2; 3],3,3,,1,reversible,D1
+12a_154,2,3,3,,2,chiral,1
+12a_155,2,3,3,,2,chiral,1
+12a_156,[2; 3; 4],2,3,,2,reversible,D1
+12a_157,2,4,4,,2,reversible,D1
+12a_158,3,4,3,,1,reversible,D1
+12a_159,2,3,3,,1,reversible,D1
+12a_160,[2; 3; 4],4,3,,1,reversible,D1
+12a_161,[2; 3],3,3,,1,reversible,D1
+12a_162,2,3,3,,2,chiral,1
+12a_163,2,3,3,,2,chiral,1
+12a_164,2,4,4,,2,reversible,D1
+12a_165,2,3,3,,1,reversible,D2
+12a_166,2,4,4,,2,reversible,D2
+12a_167,[2; 3; 4],4,4,,2,reversible,D1
+12a_168,[2; 3],3,3,,1,reversible,D1
+12a_169,2,2,2,,1,reversible,D2
+12a_170,2,3,3,,1,reversible,D1
+12a_171,2,3,3,,1,reversible,D1
+12a_172,2,4,3,,1,reversible,D1
+12a_173,1,4,3,,1,reversible,D1
+12a_174,1,4,3,,1,reversible,D1
+12a_175,2,3,3,,1,reversible,D1
+12a_176,2,3,3,,1,reversible,D1
+12a_177,2,3,3,,2,chiral,1
+12a_178,[2; 3],3,3,,1,reversible,D1
+12a_179,2,4,3,,1,reversible,D1
+12a_180,1,3,3,,1,reversible,D1
+12a_181,[2; 3],3,3,,1,reversible,D2
+12a_182,2,4,4,,2,reversible,D1
+12a_183,[2; 3],2,3,,1,reversible,D1
+12a_184,1,4,3,,2,chiral,1
+12a_185,2,4,3,,2,chiral,1
+12a_186,[2; 3],4,3,,2,chiral,1
+12a_187,2,3,3,,2,chiral,1
+12a_188,2,4,3,,2,chiral,1
+12a_189,2,4,3,,2,chiral,1
+12a_190,2,4,3,,2,chiral,1
+12a_191,1,4,3,,2,chiral,1
+12a_192,2,3,3,,2,chiral,1
+12a_193,[2; 3],4,3,,1,reversible,D1
+12a_194,2,3,3,,1,reversible,D1
+12a_195,[2; 3],4,4,,2,reversible,D1
+12a_196,[2; 3],3,3,,1,reversible,D1
+12a_197,2,2,2,,1,reversible,D2
+12a_198,2,3,3,,2,chiral,1
+12a_199,[2; 3],3,3,,2,reversible,D1
+12a_200,2,4,3,,2,chiral,1
+12a_201,2,3,3,,2,chiral,1
+12a_202,1,4,3,,2,chiral,1
+12a_203,2,4,3,,1,reversible,D1
+12a_204,2,3,2,,1,reversible,D2
+12a_205,3,4,3,,1,reversible,D1
+12a_206,2,3,2,,1,reversible,D2
+12a_207,2,4,3,,2,reversible,D1
+12a_208,1,3,3,,2,reversible,D2
+12a_209,1,4,3,,2,reversible,D1
+12a_210,2,3,3,,1,reversible,D2
+12a_211,[2; 3],4,3,,2,chiral,1
+12a_212,[2; 3],3,3,,1,reversible,D1
+12a_213,2,4,3,,2,chiral,1
+12a_214,1,4,3,,2,chiral,1
+12a_215,2,4,3,,2,reversible,D2
+12a_216,2,4,3,,2,reversible,D1
+12a_217,1,4,3,,2,reversible,D1
+12a_218,2,3,3,,2,reversible,D1
+12a_219,2,4,3,,2,reversible,D1
+12a_220,1,4,3,,2,reversible,D1
+12a_221,2,3,2,,1,reversible,D2
+12a_222,2,4,3,,2,chiral,1
+12a_223,2,3,3,,2,reversible,D1
+12a_224,2,4,3,,2,chiral,1
+12a_225,2,4,3,,2,reversible,D1
+12a_226,2,3,2,,1,reversible,D2
+12a_227,2,3,3,,2,chiral,1
+12a_228,2,4,3,,2,chiral,1
+12a_229,2,3,3,,2,reversible,D2
+12a_230,2,3,3,,2,reversible,D1
+12a_231,[2; 3],3,3,,2,reversible,D1
+12a_232,2,3,3,,2,reversible,D2
+12a_233,2,4,3,,2,chiral,1
+12a_234,2,4,3,,1,reversible,D1
+12a_235,2,3,3,,1,reversible,D1
+12a_236,3,4,3,,1,reversible,D1
+12a_237,2,3,3,,1,reversible,D1
+12a_238,[2; 3],3,3,,1,reversible,D1
+12a_239,2,2,2,,1,reversible,D2
+12a_240,[2; 3],4,3,,1,reversible,D1
+12a_241,2,3,2,,1,reversible,D2
+12a_242,2,4,3,,1,reversible,D1
+12a_243,2,3,2,,1,reversible,D2
+12a_244,[2; 3],3,3,,2,reversible,D1
+12a_245,2,4,3,,2,reversible,D1
+12a_246,2,4,3,,1,reversible,D1
+12a_247,2,3,2,,1,reversible,D2
+12a_248,2,3,3,,2,reversible,D2
+12a_249,2,3,3,,2,reversible,D1
+12a_250,2,4,3,,2,reversible,D1
+12a_251,2,3,2,,1,reversible,D2
+12a_252,3,4,3,,2,reversible,D1
+12a_253,2,3,3,,2,reversible,D1
+12a_254,[2; 3],3,2,,1,reversible,D2
+12a_255,2,2,2,,1,reversible,D2
+12a_256,1,3,3,,2,chiral,1
+12a_257,2,3,2,,1,reversible,D2
+12a_258,2,4,3,,1,reversible,D1
+12a_259,2,3,2,,1,reversible,D2
+12a_260,2,4,3,,2,reversible,D1
+12a_261,1,4,3,,2,chiral,1
+12a_262,2,4,3,,2,chiral,1
+12a_263,2,3,3,,2,reversible,D1
+12a_264,2,4,3,,2,reversible,D1
+12a_265,2,4,3,,2,reversible,D1
+12a_266,2,4,3,,2,chiral,1
+12a_267,2,3,3,,2,chiral,1
+12a_268,2,4,3,,2,negative amphicheiral,D1
+12a_269,[2; 3],3,3,,2,chiral,1
+12a_270,2,2,3,,2,chiral,Z2
+12a_271,2,4,3,,2,chiral,1
+12a_272,1,3,3,,2,chiral,Z2
+12a_273,2,3,3,,2,negative amphicheiral,D1
+12a_274,2,4,3,,2,reversible,D1
+12a_275,2,3,3,,2,reversible,D1
+12a_276,4,4,3,,2,chiral,1
+12a_277,3,3,3,,2,reversible,D1
+12a_278,2,4,3,,2,reversible,D1
+12a_279,2,3,3,,2,reversible,D1
+12a_280,1,4,3,,2,reversible,D2
+12a_281,2,4,3,,2,reversible,D2
+12a_282,1,4,3,,2,chiral,1
+12a_283,2,4,3,,2,chiral,1
+12a_284,2,4,3,,2,chiral,1
+12a_285,2,4,3,,2,chiral,1
+12a_286,2,3,3,,2,chiral,1
+12a_287,1,4,3,,2,chiral,1
+12a_288,2,4,3,,2,chiral,1
+12a_289,[2; 3],3,3,,2,chiral,1
+12a_290,1,4,3,,2,chiral,1
+12a_291,2,3,3,,2,chiral,1
+12a_292,2,4,3,,2,chiral,1
+12a_293,3,3,3,,2,chiral,1
+12a_294,[2; 3],4,3,,2,chiral,1
+12a_295,3,3,3,,2,reversible,D2
+12a_296,2,3,3,,2,chiral,1
+12a_297,[2; 3],4,3,,2,reversible,D1
+12a_298,2,4,3,,2,reversible,D1
+12a_299,2,4,3,,1,reversible,D1
+12a_300,1,3,2,,1,reversible,D2
+12a_301,1,3,3,,2,chiral,1
+12a_302,[2; 3],3,2,,1,reversible,D2
+12a_303,1,3,2,,1,reversible,D2
+12a_304,[2; 3],4,3,,1,reversible,D1
+12a_305,2,4,3,,1,reversible,D1
+12a_306,2,3,2,,1,reversible,D2
+12a_307,2,3,2,,1,reversible,D2
+12a_308,1,3,3,,2,chiral,1
+12a_309,1,3,3,,2,chiral,1
+12a_310,1,4,3,,2,chiral,1
+12a_311,3,3,3,,2,reversible,D1
+12a_312,2,2,3,,2,reversible,D1
+12a_313,2,3,3,,2,chiral,1
+12a_314,2,3,3,,2,chiral,1
+12a_315,[2; 3],3,3,,2,chiral,1
+12a_316,1,4,3,,2,chiral,1
+12a_317,2,3,3,,2,chiral,1
+12a_318,2,4,3,,2,chiral,1
+12a_319,[3; 4],3,3,,2,chiral,1
+12a_320,[2; 3],2,3,,2,chiral,1
+12a_321,3,4,3,,2,chiral,1
+12a_322,2,3,3,,2,chiral,1
+12a_323,2,4,3,,2,reversible,D1
+12a_324,2,4,3,,2,chiral,1
+12a_325,2,4,3,,2,chiral,1
+12a_326,2,3,3,,2,chiral,1
+12a_327,3,3,3,,2,reversible,D2
+12a_328,2,4,3,,2,chiral,1
+12a_329,[2; 3],3,3,,1,reversible,D1
+12a_330,2,2,2,,1,reversible,D2
+12a_331,[2; 3],4,3,,2,reversible,D1
+12a_332,2,3,3,,2,reversible,D2
+12a_333,2,4,3,,2,chiral,1
+12a_334,2,4,3,,2,chiral,1
+12a_335,2,4,3,,2,chiral,1
+12a_336,2,3,3,,2,chiral,1
+12a_337,2,3,3,,2,chiral,1
+12a_338,2,3,3,,2,chiral,Z2
+12a_339,2,2,3,,2,chiral,1
+12a_340,1,3,3,,2,chiral,1
+12a_341,2,4,3,,2,negative amphicheiral,D1
+12a_342,2,4,3,,2,chiral,1
+12a_343,2,3,3,,2,chiral,1
+12a_344,3,3,3,,2,chiral,1
+12a_345,2,2,3,,1,reversible,D2
+12a_346,1,4,3,,2,reversible,D1
+12a_347,2,3,3,,2,reversible,D1
+12a_348,2,3,3,,2,chiral,Z2
+12a_349,2,4,3,,2,chiral,1
+12a_350,[2; 3],3,3,,2,chiral,1
+12a_351,2,4,3,,2,chiral,1
+12a_352,2,4,3,,2,chiral,1
+12a_353,2,3,3,,2,reversible,D1
+12a_354,2,3,3,,2,reversible,D1
+12a_355,3,3,3,,2,chiral,1
+12a_356,2,2,3,,2,reversible,D1
+12a_357,2,3,3,,2,reversible,D1
+12a_358,1,4,3,,2,reversible,D1
+12a_359,1,4,3,,2,reversible,D1
+12a_360,1,3,3,,2,chiral,1
+12a_361,2,4,3,,2,chiral,1
+12a_362,2,4,3,,2,chiral,1
+12a_363,2,4,3,,2,chiral,1
+12a_364,2,4,3,,2,chiral,1
+12a_365,2,4,3,,2,chiral,1
+12a_366,2,3,3,,2,chiral,1
+12a_367,4,4,3,,2,reversible,D1
+12a_368,[3; 4],3,3,,2,reversible,D1
+12a_369,3,5,3,,2,reversible,D1
+12a_370,[2; 3],4,3,,2,reversible,D1
+12a_371,[2; 3],4,3,,2,reversible,D1
+12a_372,[2; 3],3,3,,2,reversible,D1
+12a_373,3,4,3,,2,reversible,D2
+12a_374,1,4,3,,2,reversible,D1
+12a_375,[2; 3],4,3,,2,reversible,D1
+12a_376,[2; 3],3,3,,2,reversible,D1
+12a_377,2,4,3,,2,chiral,1
+12a_378,2,3,2,,1,reversible,D2
+12a_379,[2; 3],3,2,,1,reversible,D2
+12a_380,[2; 3],2,2,,1,reversible,D2
+12a_381,[2; 3],3,3,,2,reversible,D2
+12a_382,[2; 3],4,3,,2,reversible,D1
+12a_383,2,4,3,,2,reversible,D1
+12a_384,2,3,2,,1,reversible,D2
+12a_385,2,3,2,,1,reversible,D2
+12a_386,3,4,3,,2,reversible,D1
+12a_387,2,4,3,,2,chiral,1
+12a_388,1,4,3,,2,chiral,1
+12a_389,2,4,3,,2,reversible,D1
+12a_390,2,4,3,,2,chiral,1
+12a_391,[3; 4],3,3,,2,reversible,D1
+12a_392,[2; 3; 4],2,3,,2,reversible,D1
+12a_393,2,3,3,,2,chiral,1
+12a_394,2,4,3,,2,chiral,1
+12a_395,2,3,3,,2,chiral,1
+12a_396,2,4,3,,2,reversible,D1
+12a_397,2,3,3,,2,reversible,D1
+12a_398,2,4,3,,2,chiral,1
+12a_399,2,3,3,,2,chiral,1
+12a_400,2,3,3,,2,reversible,D1
+12a_401,2,3,3,,2,reversible,D2
+12a_402,2,4,3,,2,chiral,1
+12a_403,2,3,3,,2,chiral,1
+12a_404,2,3,3,,2,chiral,1
+12a_405,2,3,3,,2,chiral,1
+12a_406,2,3,2,,1,reversible,D2
+12a_407,1,3,3,,2,chiral,1
+12a_408,2,3,3,,2,reversible,D1
+12a_409,3,4,3,,2,chiral,1
+12a_410,2,3,3,,2,chiral,1
+12a_411,2,4,3,,2,chiral,1
+12a_412,2,3,3,,2,chiral,1
+12a_413,2,4,3,,2,reversible,D1
+12a_414,[2; 3],2,3,,2,reversible,D1
+12a_415,1,4,3,,2,chiral,1
+12a_416,2,4,3,,2,chiral,1
+12a_417,2,4,3,,2,chiral,1
+12a_418,2,4,3,,2,chiral,1
+12a_419,2,4,3,,2,chiral,1
+12a_420,3,3,3,,1,reversible,D1
+12a_421,[2; 3],2,3,,1,reversible,D1
+12a_422,[2; 3; 4],4,3,,1,reversible,D1
+12a_423,[2; 3],3,3,,1,reversible,D1
+12a_424,[2; 3],3,3,,1,reversible,D1
+12a_425,2,2,2,,1,reversible,D2
+12a_426,1,4,3,,2,reversible,D2
+12a_427,2,4,3,,2,positive amphicheiral,Z2
+12a_428,2,4,3,,2,chiral,1
+12a_429,2,3,3,,2,chiral,1
+12a_430,2,4,3,,2,reversible,D1
+12a_431,[3; 4],3,3,,2,chiral,1
+12a_432,3,3,3,,2,chiral,1
+12a_433,3,3,3,,2,reversible,D2
+12a_434,[2; 3],4,3,,2,chiral,1
+12a_435,2,4,3,,2,fully amphicheiral,D4
+12a_436,[2; 3],4,3,,1,reversible,D1
+12a_437,2,3,2,,1,reversible,D2
+12a_438,2,4,3,,2,reversible,D1
+12a_439,1,4,3,,2,chiral,1
+12a_440,2,4,3,,2,chiral,1
+12a_441,2,3,3,,2,chiral,1
+12a_442,3,3,3,,2,reversible,D1
+12a_443,[2; 3],2,3,,2,reversible,D1
+12a_444,2,3,3,,2,reversible,D2
+12a_445,2,4,3,,2,reversible,D1
+12a_446,2,4,3,,2,chiral,1
+12a_447,2,3,2,,1,reversible,D2
+12a_448,2,2,3,,2,reversible,D2
+12a_449,[2; 3],3,3,,2,reversible,D1
+12a_450,2,3,3,,2,reversible,D1
+12a_451,1,4,3,,2,chiral,1
+12a_452,2,4,3,,2,chiral,1
+12a_453,2,4,3,,2,reversible,D1
+12a_454,[2; 3],3,2,,1,reversible,D2
+12a_455,1,4,3,,2,chiral,1
+12a_456,2,4,3,,2,chiral,1
+12a_457,2,4,3,,2,chiral,1
+12a_458,2,4,3,,2,negative amphicheiral,D1
+12a_459,2,3,3,,2,chiral,1
+12a_460,2,3,3,,2,reversible,D1
+12a_461,[2; 3],3,3,,2,chiral,1
+12a_462,[2; 3],4,3,,2,negative amphicheiral,D1
+12a_463,2,3,3,,1,reversible,D1
+12a_464,2,4,3,,2,chiral,1
+12a_465,2,4,3,,2,negative amphicheiral,D1
+12a_466,2,4,3,,2,reversible,D1
+12a_467,1,4,3,,2,chiral,1
+12a_468,2,4,3,,2,chiral,1
+12a_469,2,4,3,,2,chiral,1
+12a_470,1,4,3,,2,chiral,1
+12a_471,2,2,2,,1,fully amphicheiral,D4
+12a_472,2,3,3,,2,reversible,D1
+12a_473,2,4,3,,2,chiral,1
+12a_474,2,4,3,,2,reversible,D1
+12a_475,2,4,3,,2,chiral,1
+12a_476,2,4,3,,2,reversible,D1
+12a_477,[2; 3],3,2,,1,fully amphicheiral,D4
+12a_478,2,4,3,,2,reversible,D1
+12a_479,2,4,3,,2,chiral,1
+12a_480,2,4,3,,2,chiral,1
+12a_481,[2; 3],3,3,,2,reversible,D1
+12a_482,[2; 3],2,2,,1,reversible,D2
+12a_483,1,4,3,,2,reversible,D1
+12a_484,2,4,3,,2,chiral,1
+12a_485,2,4,3,,2,reversible,D1
+12a_486,2,4,3,,2,reversible,D1
+12a_487,2,4,3,,2,chiral,1
+12a_488,2,4,3,,2,chiral,1
+12a_489,2,3,3,,2,chiral,1
+12a_490,3,3,3,,2,reversible,D1
+12a_491,2,3,3,,2,reversible,D1
+12a_492,2,3,3,,2,chiral,1
+12a_493,[2; 3],4,3,,2,reversible,D1
+12a_494,[2; 3],3,3,,2,reversible,D1
+12a_495,2,4,3,,2,reversible,D1
+12a_496,[2; 3],4,3,,2,reversible,D1
+12a_497,1,4,2,,1,reversible,D2
+12a_498,1,4,2,,1,reversible,D2
+12a_499,2,4,2,,1,fully amphicheiral,D4
+12a_500,2,4,2,,1,reversible,D2
+12a_501,2,4,2,,1,reversible,D2
+12a_502,3,4,2,,1,reversible,D2
+12a_503,2,4,3,,2,reversible,D6
+12a_504,2,3,3,,2,chiral,Z2
+12a_505,2,4,3,,2,reversible,D2
+12a_506,2,4,2,,1,fully amphicheiral,D4
+12a_507,3,4,3,,1,reversible,D1
+12a_508,[2; 3],3,2,,1,reversible,D2
+12a_509,1,4,3,,2,chiral,1
+12a_510,2,3,2,,1,fully amphicheiral,D4
+12a_511,2,4,2,,1,reversible,D2
+12a_512,2,4,2,,1,reversible,D2
+12a_513,2,3,3,,2,chiral,Z2
+12a_514,2,3,2,,1,reversible,D2
+12a_515,2,4,3,,2,reversible,D2
+12a_516,2,4,3,,2,reversible,D2
+12a_517,2,4,2,,1,reversible,D2
+12a_518,2,3,2,,1,reversible,D2
+12a_519,3,4,2,,1,reversible,D2
+12a_520,2,3,2,,1,reversible,D2
+12a_521,2,4,2,,1,reversible,D2
+12a_522,2,3,2,,1,reversible,D2
+12a_523,2,4,3,,2,chiral,1
+12a_524,1,3,3,,2,chiral,Z2
+12a_525,2,3,3,,2,reversible,D2
+12a_526,2,4,3,,2,chiral,1
+12a_527,2,4,3,,2,chiral,1
+12a_528,2,4,2,,1,reversible,D2
+12a_529,2,3,3,,2,chiral,Z2
+12a_530,2,3,3,,2,reversible,D1
+12a_531,2,4,3,,2,reversible,D1
+12a_532,2,3,2,,1,reversible,D2
+12a_533,[2; 3],4,2,,1,reversible,D2
+12a_534,2,3,2,,1,reversible,D2
+12a_535,1,4,2,,1,reversible,D2
+12a_536,2,4,2,,1,reversible,D2
+12a_537,1,3,2,,1,reversible,D2
+12a_538,3,4,2,,1,reversible,D2
+12a_539,2,3,2,,1,reversible,D2
+12a_540,2,3,2,,1,reversible,D2
+12a_541,2,4,2,,1,reversible,D2
+12a_542,2,2,3,,2,reversible,D2
+12a_543,2,3,3,,2,chiral,1
+12a_544,[2; 3],4,3,,1,reversible,D1
+12a_545,[2; 3],3,2,,1,reversible,D2
+12a_546,2,3,3,,2,reversible,D1
+12a_547,2,3,3,,2,chiral,1
+12a_548,2,3,3,,2,reversible,D1
+12a_549,2,2,2,,1,reversible,D2
+12a_550,2,3,2,,1,reversible,D2
+12a_551,1,2,2,,1,reversible,D2
+12a_552,2,3,2,,1,reversible,D2
+12a_553,[2; 3],4,3,,2,reversible,D1
+12a_554,[2; 3],3,4,,3,reversible,D2
+12a_555,2,3,3,,2,chiral,1
+12a_556,[2; 3],3,3,,2,chiral,1
+12a_557,2,2,3,,2,chiral,Z2
+12a_558,2,4,3,,2,chiral,1
+12a_559,1,3,3,,2,chiral,1
+12a_560,1,3,3,,2,chiral,Z2
+12a_561,3,4,3,,2,reversible,D6
+12a_562,2,3,3,,2,chiral,Z2
+12a_563,3,3,3,,2,chiral,Z2
+12a_564,2,2,3,,2,chiral,Z2
+12a_565,2,4,3,,2,chiral,Z2
+12a_566,2,3,3,,2,chiral,Z2
+12a_567,2,4,3,,2,reversible,D1
+12a_568,[2; 3],3,3,,2,chiral,Z2
+12a_569,3,4,3,,2,reversible,D2
+12a_570,2,3,3,,2,reversible,D2
+12a_571,1,4,3,,2,chiral,1
+12a_572,2,4,3,,2,chiral,1
+12a_573,2,4,3,,2,chiral,1
+12a_574,4,4,3,,2,reversible,D2
+12a_575,3,3,3,,2,reversible,D2
+12a_576,3,5,3,,2,reversible,D1
+12a_577,2,4,3,,2,reversible,D1
+12a_578,2,4,3,,2,reversible,D1
+12a_579,1,4,2,,1,reversible,D2
+12a_580,[2; 3],4,2,,1,reversible,D2
+12a_581,2,3,2,,1,reversible,D2
+12a_582,2,3,2,,1,reversible,D2
+12a_583,2,4,2,,1,reversible,D2
+12a_584,2,4,2,,1,reversible,D2
+12a_585,1,3,2,,1,reversible,D2
+12a_586,[3; 4],3,3,,2,chiral,1
+12a_587,3,4,3,,2,chiral,1
+12a_588,1,4,3,,2,chiral,1
+12a_589,2,4,3,,2,chiral,1
+12a_590,3,4,3,,2,chiral,1
+12a_591,2,3,3,,1,reversible,D1
+12a_592,[2; 3],3,3,,2,chiral,1
+12a_593,2,3,3,,2,chiral,1
+12a_594,2,3,3,,2,reversible,D1
+12a_595,2,3,2,,1,reversible,D2
+12a_596,2,2,2,,1,reversible,D2
+12a_597,[2; 3],3,2,,1,reversible,D2
+12a_598,2,4,3,,2,chiral,1
+12a_599,2,4,3,,2,chiral,1
+12a_600,[2; 3],3,2,,1,reversible,D2
+12a_601,2,2,2,,1,reversible,D2
+12a_602,2,4,3,,2,chiral,1
+12a_603,2,3,3,,2,chiral,1
+12a_604,1,3,3,,2,chiral,1
+12a_605,2,4,3,,2,chiral,1
+12a_606,1,3,3,,2,chiral,1
+12a_607,2,4,3,,2,chiral,1
+12a_608,1,3,3,,2,chiral,1
+12a_609,2,3,3,,2,chiral,1
+12a_610,[2; 3],2,3,,2,chiral,1
+12a_611,2,3,3,,2,chiral,1
+12a_612,2,3,3,,2,chiral,1
+12a_613,2,3,3,,2,chiral,1
+12a_614,1,3,3,,2,chiral,1
+12a_615,3,3,3,,2,reversible,D3
+12a_616,[2; 3],4,3,,2,reversible,D1
+12a_617,2,4,3,,2,chiral,1
+12a_618,2,4,3,,2,chiral,1
+12a_619,2,2,3,,2,chiral,Z2
+12a_620,2,4,3,,2,chiral,1
+12a_621,2,4,3,,2,chiral,1
+12a_622,2,3,3,,2,chiral,1
+12a_623,2,3,3,,2,chiral,1
+12a_624,2,3,3,,2,chiral,1
+12a_625,2,3,3,,2,reversible,D1
+12a_626,1,4,3,,2,chiral,1
+12a_627,2,4,3,,2,negative amphicheiral,D1
+12a_628,2,3,3,,2,reversible,D1
+12a_629,2,4,3,,2,reversible,D1
+12a_630,2,4,3,,2,chiral,1
+12a_631,1,3,3,,2,chiral,1
+12a_632,2,3,3,,2,chiral,1
+12a_633,2,3,3,,2,chiral,1
+12a_634,[2; 3],3,3,,2,reversible,D1
+12a_635,1,3,3,,2,chiral,1
+12a_636,[2; 3],2,3,,2,reversible,D2
+12a_637,1,4,3,,2,chiral,1
+12a_638,2,3,3,,2,chiral,1
+12a_639,[2; 3],4,3,,2,chiral,1
+12a_640,2,3,3,,2,chiral,1
+12a_641,[2; 3],4,3,,2,reversible,D1
+12a_642,2,3,3,,2,reversible,D1
+12a_643,[2; 3],3,2,,1,reversible,D2
+12a_644,2,2,2,,1,reversible,D2
+12a_645,2,4,3,,2,chiral,1
+12a_646,1,4,3,,2,chiral,1
+12a_647,4,4,3,,2,reversible,D2
+12a_648,3,3,3,,2,reversible,D2
+12a_649,[2; 3],4,2,,1,reversible,D2
+12a_650,2,3,2,,1,reversible,D2
+12a_651,[2; 3],4,2,,1,reversible,D2
+12a_652,2,3,2,,1,reversible,D2
+12a_653,[2; 3],2,3,,2,reversible,D1
+12a_654,2,3,3,,2,chiral,1
+12a_655,2,3,3,,2,chiral,1
+12a_656,1,3,3,,2,reversible,D1
+12a_657,2,4,3,,2,chiral,1
+12a_658,2,3,3,,2,chiral,1
+12a_659,[3; 4],3,3,,2,chiral,1
+12a_660,3,4,3,,2,chiral,1
+12a_661,[2; 3],3,3,,2,chiral,1
+12a_662,1,4,3,,2,chiral,1
+12a_663,2,3,3,,2,reversible,D1
+12a_664,3,4,3,,2,reversible,D1
+12a_665,[2; 3],3,3,,2,reversible,D1
+12a_666,2,3,3,,2,chiral,1
+12a_667,[2; 3; 4],4,3,,2,chiral,1
+12a_668,[2; 3],4,3,,2,chiral,1
+12a_669,[2; 3],3,3,,1,reversible,D1
+12a_670,1,4,3,,2,chiral,1
+12a_671,2,4,3,,2,chiral,1
+12a_672,2,4,3,,2,chiral,1
+12a_673,2,4,3,,2,reversible,D1
+12a_674,2,4,3,,2,chiral,1
+12a_675,2,4,3,,2,chiral,1
+12a_676,2,3,3,,2,chiral,1
+12a_677,2,3,3,,2,chiral,1
+12a_678,2,3,3,,2,chiral,1
+12a_679,2,2,3,,2,reversible,D2
+12a_680,[2; 3],4,3,,2,chiral,1
+12a_681,[2; 3],4,3,,1,reversible,D1
+12a_682,2,3,2,,1,reversible,D2
+12a_683,3,4,3,,2,reversible,D2
+12a_684,[2; 3],3,2,,1,reversible,D2
+12a_685,2,3,3,,2,chiral,1
+12a_686,[2; 3],3,3,,2,reversible,D1
+12a_687,[2; 3],3,3,,2,chiral,1
+12a_688,2,4,3,,2,chiral,1
+12a_689,[2; 3],3,3,,1,reversible,D1
+12a_690,2,2,2,,1,reversible,D2
+12a_691,2,2,2,,1,reversible,D2
+12a_692,[2; 3; 4],4,4,,2,reversible,D2
+12a_693,[2; 3],4,4,,2,reversible,D2
+12a_694,3,4,4,,2,reversible,D2
+12a_695,1,4,3,,2,chiral,1
+12a_696,1,4,3,,2,chiral,1
+12a_697,1,4,3,,2,chiral,1
+12a_698,2,4,3,,2,chiral,1
+12a_699,2,4,3,,2,chiral,1
+12a_700,2,4,3,,2,chiral,1
+12a_701,2,4,3,,2,chiral,Z2
+12a_702,[2; 3],4,3,,2,chiral,Z2
+12a_703,2,4,3,,2,chiral,Z2
+12a_704,2,4,3,,2,chiral,1
+12a_705,2,4,3,,2,reversible,D1
+12a_706,[2; 3],4,3,,2,reversible,D1
+12a_707,2,4,3,,2,chiral,1
+12a_708,2,4,3,,2,reversible,D1
+12a_709,2,4,3,,2,chiral,1
+12a_710,2,4,3,,2,chiral,1
+12a_711,2,4,3,,2,chiral,1
+12a_712,2,4,3,,2,reversible,D2
+12a_713,2,4,2,,1,reversible,D2
+12a_714,2,4,2,,1,reversible,D2
+12a_715,1,3,2,,1,reversible,D2
+12a_716,3,5,2,,1,reversible,D2
+12a_717,2,4,2,,1,reversible,D2
+12a_718,2,4,2,,1,reversible,D2
+12a_719,2,3,3,,2,reversible,D2
+12a_720,2,4,2,,1,reversible,D2
+12a_721,1,3,2,,1,reversible,D2
+12a_722,4,5,2,,1,reversible,D2
+12a_723,3,4,2,,1,reversible,D2
+12a_724,3,4,2,,1,reversible,D2
+12a_725,3,3,3,,2,reversible,D2
+12a_726,3,4,2,,1,reversible,D2
+12a_727,2,3,2,,1,reversible,D2
+12a_728,2,4,2,,1,reversible,D2
+12a_729,1,3,2,,1,reversible,D2
+12a_730,[2; 3],3,3,,2,chiral,Z2
+12a_731,2,3,2,,1,reversible,D2
+12a_732,1,3,2,,1,reversible,D2
+12a_733,2,3,2,,1,reversible,D2
+12a_734,2,4,3,,2,chiral,1
+12a_735,2,2,3,,2,chiral,Z2
+12a_736,1,3,2,,1,reversible,D2
+12a_737,2,4,3,,2,reversible,D2
+12a_738,2,3,2,,1,reversible,D2
+12a_739,3,4,3,,2,reversible,D2
+12a_740,2,3,2,,1,reversible,D2
+12a_741,[2; 3],3,3,,2,reversible,D1
+12a_742,2,4,3,,2,reversible,D2
+12a_743,2,2,2,,1,reversible,D2
+12a_744,1,2,2,,1,reversible,D2
+12a_745,1,2,2,,1,reversible,D2
+12a_746,2,4,3,,2,reversible,D1
+12a_747,2,4,3,,2,chiral,1
+12a_748,2,3,3,,2,chiral,Z2
+12a_749,2,3,3,,2,chiral,Z2
+12a_750,[2; 3],2,4,,3,reversible,D2
+12a_751,1,3,3,,2,chiral,1
+12a_752,2,2,3,,2,chiral,Z2
+12a_753,2,2,3,,2,chiral,Z2
+12a_754,2,4,3,,2,chiral,1
+12a_755,2,4,3,,2,chiral,1
+12a_756,2,4,3,,2,chiral,1
+12a_757,2,4,3,,1,reversible,D1
+12a_758,2,3,2,,1,reversible,D2
+12a_759,2,4,2,,1,reversible,D2
+12a_760,2,3,2,,1,reversible,D2
+12a_761,1,3,2,,1,reversible,D2
+12a_762,[3; 4],4,2,,1,reversible,D2
+12a_763,[2; 3],3,2,,1,reversible,D2
+12a_764,[2; 3],3,2,,1,reversible,D2
+12a_765,1,4,3,,2,chiral,1
+12a_766,1,4,3,,2,chiral,1
+12a_767,[2; 3],2,3,,2,reversible,D2
+12a_768,2,4,3,,2,chiral,1
+12a_769,2,3,3,,2,chiral,1
+12a_770,1,3,3,,2,chiral,1
+12a_771,2,3,3,,2,reversible,D1
+12a_772,2,3,3,,1,reversible,D1
+12a_773,1,2,2,,1,reversible,D2
+12a_774,1,2,2,,1,reversible,D2
+12a_775,2,2,2,,1,reversible,D2
+12a_776,2,4,3,,2,chiral,1
+12a_777,2,4,3,,2,chiral,1
+12a_778,2,4,3,,2,chiral,1
+12a_779,2,3,3,,2,chiral,1
+12a_780,3,3,3,,2,reversible,D1
+12a_781,1,3,3,,2,chiral,1
+12a_782,2,3,3,,2,chiral,1
+12a_783,2,3,3,,2,chiral,1
+12a_784,[2; 3],4,3,,2,chiral,1
+12a_785,2,4,3,,2,reversible,D2
+12a_786,2,3,3,,2,chiral,1
+12a_787,2,2,3,,2,reversible,D2
+12a_788,2,4,3,,2,reversible,D1
+12a_789,[2; 3],4,3,,1,reversible,D1
+12a_790,2,3,3,,1,reversible,D1
+12a_791,[2; 3],3,2,,1,reversible,D2
+12a_792,2,2,2,,1,reversible,D2
+12a_793,1,4,3,,2,reversible,D2
+12a_794,[3; 4],4,3,,1,reversible,D1
+12a_795,[2; 3],3,3,,1,reversible,D1
+12a_796,[2; 3],3,2,,1,reversible,D2
+12a_797,2,2,2,,1,reversible,D2
+12a_798,[2; 3],3,3,,2,chiral,Z2
+12a_799,1,3,3,,2,reversible,D1
+12a_800,[2; 3],3,3,,1,reversible,D2
+12a_801,[3; 4],4,4,,2,reversible,D2
+12a_802,2,2,2,,1,reversible,D2
+12a_803,1,1,2,,1,reversible,D2
+12a_804,2,4,3,,2,chiral,1
+12a_805,2,5,3,,2,reversible,D1
+12a_806,2,4,3,,2,reversible,D1
+12a_807,1,4,3,,2,reversible,D1
+12a_808,2,3,3,,2,reversible,D1
+12a_809,2,4,3,,2,reversible,D1
+12a_810,2,3,3,,2,reversible,D1
+12a_811,4,4,3,,2,reversible,D1
+12a_812,[2; 3],3,3,,2,chiral,1
+12a_813,4,4,3,,2,chiral,1
+12a_814,[3; 4],3,3,,2,chiral,1
+12a_815,[2; 3; 4],5,3,,2,chiral,1
+12a_816,[2; 3; 4],4,3,,2,chiral,1
+12a_817,4,4,3,,2,chiral,Z2
+12a_818,2,4,3,,2,chiral,1
+12a_819,2,5,3,,2,negative amphicheiral,D1
+12a_820,2,4,3,,2,chiral,1
+12a_821,1,3,3,,2,negative amphicheiral,D1
+12a_822,3,4,3,,1,reversible,D1
+12a_823,2,3,3,,1,reversible,D1
+12a_824,[2; 3],5,3,,2,chiral,1
+12a_825,[2; 3],4,3,,2,chiral,1
+12a_826,[2; 3],4,3,,1,reversible,D1
+12a_827,[2; 3],3,3,,1,reversible,D1
+12a_828,[3; 4],3,3,,2,chiral,1
+12a_829,3,4,3,,2,chiral,1
+12a_830,2,4,3,,2,chiral,1
+12a_831,2,4,3,,2,chiral,1
+12a_832,3,4,3,,2,chiral,1
+12a_833,2,4,3,,2,chiral,1
+12a_834,2,3,3,,2,chiral,1
+12a_835,[2; 3],5,3,,1,reversible,D1
+12a_836,2,4,3,,1,reversible,D1
+12a_837,2,4,3,,1,reversible,D1
+12a_838,4,5,3,,1,reversible,D1
+12a_839,3,4,3,,1,reversible,D1
+12a_840,3,4,3,,1,reversible,D1
+12a_841,[2; 3],3,3,,2,reversible,D1
+12a_842,2,3,3,,1,reversible,D1
+12a_843,2,3,3,,1,reversible,D1
+12a_844,2,4,3,,2,chiral,1
+12a_845,[2; 3],3,3,,2,reversible,D1
+12a_846,2,4,3,,2,chiral,1
+12a_847,2,4,3,,2,chiral,1
+12a_848,2,4,3,,2,chiral,1
+12a_849,1,3,3,,2,chiral,1
+12a_850,2,5,3,,2,chiral,1
+12a_851,1,4,3,,2,chiral,1
+12a_852,2,4,3,,2,chiral,1
+12a_853,2,3,3,,2,chiral,1
+12a_854,2,3,3,,2,chiral,1
+12a_855,2,4,3,,2,chiral,1
+12a_856,2,3,3,,2,chiral,1
+12a_857,1,4,3,,2,chiral,1
+12a_858,1,3,3,,2,chiral,1
+12a_859,3,5,3,,2,chiral,1
+12a_860,2,4,3,,2,chiral,1
+12a_861,2,4,3,,2,chiral,1
+12a_862,[2; 3],3,3,,2,chiral,1
+12a_863,2,3,3,,2,chiral,1
+12a_864,1,5,3,,2,chiral,1
+12a_865,1,4,3,,2,chiral,1
+12a_866,2,4,3,,2,chiral,1
+12a_867,2,4,3,,2,chiral,1
+12a_868,2,4,3,,2,negative amphicheiral,D2
+12a_869,[2; 3],5,3,,2,reversible,D1
+12a_870,2,4,3,,2,chiral,1
+12a_871,2,4,3,,2,chiral,1
+12a_872,2,3,3,,2,chiral,1
+12a_873,2,3,3,,2,reversible,D1
+12a_874,2,4,3,,2,chiral,1
+12a_875,1,3,3,,2,chiral,1
+12a_876,4,4,3,,1,reversible,D2
+12a_877,[3; 4],3,3,,1,reversible,D1
+12a_878,[2; 3],5,3,,1,reversible,D1
+12a_879,[2; 3],4,3,,1,reversible,D1
+12a_880,[2; 3],2,3,,1,reversible,D2
+12a_881,[2; 3],4,3,,1,reversible,D1
+12a_882,2,3,3,,1,reversible,D1
+12a_883,2,3,3,,2,reversible,D1
+12a_884,2,4,3,,2,chiral,1
+12a_885,2,4,3,,2,chiral,1
+12a_886,[2; 3],4,3,,2,reversible,D1
+12a_887,1,4,3,,2,negative amphicheiral,D1
+12a_888,1,4,3,,2,chiral,1
+12a_889,2,4,3,,2,chiral,1
+12a_890,2,3,3,,2,negative amphicheiral,D1
+12a_891,2,4,3,,2,chiral,1
+12a_892,2,3,3,,2,chiral,1
+12a_893,1,4,3,,2,chiral,1
+12a_894,2,4,3,,2,chiral,1
+12a_895,2,4,3,,2,chiral,1
+12a_896,[2; 3],4,3,,2,reversible,D1
+12a_897,2,3,3,,2,reversible,D1
+12a_898,[2; 3],5,3,,2,chiral,1
+12a_899,[2; 3],4,3,,2,chiral,1
+12a_900,[3; 4],3,3,,2,chiral,1
+12a_901,[2; 3],4,3,,2,chiral,1
+12a_902,2,3,3,,2,chiral,1
+12a_903,2,3,3,,2,chiral,1
+12a_904,2,4,3,,2,reversible,D1
+12a_905,2,3,3,,2,reversible,D2
+12a_906,2,4,3,,2,negative amphicheiral,D1
+12a_907,3,4,3,,2,reversible,D1
+12a_908,2,3,3,,2,reversible,D1
+12a_909,2,5,3,,2,chiral,1
+12a_910,2,4,3,,2,chiral,1
+12a_911,[2; 3],4,3,,2,chiral,1
+12a_912,[2; 3],3,3,,2,chiral,1
+12a_913,2,4,3,,2,chiral,1
+12a_914,2,3,3,,2,chiral,1
+12a_915,2,3,3,,2,chiral,1
+12a_916,[2; 3],5,3,,2,chiral,1
+12a_917,2,4,3,,2,chiral,1
+12a_918,2,4,3,,2,chiral,1
+12a_919,1,3,3,,2,chiral,1
+12a_920,2,5,3,,2,chiral,1
+12a_921,3,4,3,,2,chiral,1
+12a_922,2,4,3,,2,chiral,1
+12a_923,3,4,3,,2,chiral,1
+12a_924,2,3,3,,2,chiral,1
+12a_925,2,4,3,,2,chiral,1
+12a_926,2,4,3,,2,chiral,1
+12a_927,2,3,3,,2,chiral,1
+12a_928,1,4,3,,2,chiral,1
+12a_929,2,4,3,,2,chiral,1
+12a_930,3,4,3,,2,chiral,1
+12a_931,2,3,3,,2,chiral,1
+12a_932,2,4,3,,2,chiral,1
+12a_933,2,4,3,,2,chiral,1
+12a_934,2,4,3,,2,chiral,1
+12a_935,1,4,3,,2,chiral,1
+12a_936,2,3,3,,2,chiral,1
+12a_937,3,4,3,,1,reversible,D1
+12a_938,[2; 3],3,3,,1,reversible,D2
+12a_939,2,2,3,,2,reversible,D1
+12a_940,[2; 3],3,3,,2,reversible,D1
+12a_941,2,4,3,,2,chiral,1
+12a_942,2,3,3,,2,chiral,1
+12a_943,2,3,3,,2,chiral,1
+12a_944,1,4,3,,2,chiral,1
+12a_945,2,3,3,,2,chiral,1
+12a_946,3,4,3,,2,chiral,1
+12a_947,[2; 3],3,3,,2,chiral,1
+12a_948,2,4,3,,2,chiral,1
+12a_949,2,4,3,,2,chiral,1
+12a_950,2,3,3,,2,chiral,1
+12a_951,2,4,3,,2,chiral,1
+12a_952,3,4,3,,2,chiral,1
+12a_953,2,3,3,,2,chiral,1
+12a_954,1,4,3,,2,chiral,1
+12a_955,2,3,3,,2,chiral,1
+12a_956,2,4,3,,2,chiral,1
+12a_957,[2; 3],3,3,,2,chiral,1
+12a_958,2,4,3,,2,chiral,1
+12a_959,2,3,3,,2,chiral,1
+12a_960,2,3,3,,2,negative amphicheiral,D1
+12a_961,2,4,3,,2,chiral,1
+12a_962,2,4,3,,2,chiral,1
+12a_963,2,3,3,,2,chiral,1
+12a_964,2,4,3,,2,chiral,1
+12a_965,2,4,3,,2,chiral,1
+12a_966,1,4,3,,2,chiral,1
+12a_967,[2; 3],3,3,,2,chiral,1
+12a_968,2,4,3,,2,chiral,1
+12a_969,2,3,3,,2,chiral,1
+12a_970,2,4,3,,2,chiral,1
+12a_971,2,3,3,,2,chiral,1
+12a_972,2,4,3,,2,chiral,1
+12a_973,[3; 4],3,3,,2,reversible,D1
+12a_974,[2; 3],2,3,,2,reversible,D1
+12a_975,2,3,3,,2,reversible,D4
+12a_976,1,3,3,,2,reversible,D1
+12a_977,3,4,3,,2,reversible,D1
+12a_978,[2; 3],3,3,,2,reversible,D1
+12a_979,2,4,3,,2,chiral,1
+12a_980,2,4,3,,2,chiral,1
+12a_981,[2; 3],5,3,,2,chiral,1
+12a_982,2,4,3,,2,chiral,1
+12a_983,[2; 3],3,3,,2,chiral,1
+12a_984,3,5,3,,2,chiral,1
+12a_985,[2; 3],4,3,,2,chiral,1
+12a_986,2,4,3,,2,chiral,1
+12a_987,2,4,3,,2,chiral,1
+12a_988,[2; 3],4,3,,2,chiral,1
+12a_989,[2; 3],3,3,,2,chiral,1
+12a_990,2,4,3,,2,negative amphicheiral,D1
+12a_991,2,4,3,,2,chiral,Z2
+12a_992,2,4,3,,2,chiral,1
+12a_993,1,4,3,,2,chiral,1
+12a_994,2,4,3,,2,chiral,1
+12a_995,[3; 4],3,3,,2,chiral,1
+12a_996,[2; 3],2,3,,2,chiral,1
+12a_997,2,4,3,,2,chiral,1
+12a_998,1,4,3,,2,chiral,1
+12a_999,[2; 3],5,3,,2,reversible,D1
+12a_1000,[2; 3],4,3,,2,reversible,D1
+12a_1001,2,3,3,,2,chiral,1
+12a_1002,2,5,3,,2,chiral,1
+12a_1003,2,4,3,,2,chiral,1
+12a_1004,[3; 4],3,3,,2,reversible,D1
+12a_1005,1,4,3,,2,chiral,1
+12a_1006,2,4,3,,2,chiral,1
+12a_1007,2,4,3,,2,chiral,1
+12a_1008,1,3,3,,2,negative amphicheiral,D1
+12a_1009,[2; 3],4,3,,2,chiral,1
+12a_1010,2,3,3,,2,reversible,D1
+12a_1011,1,5,3,,2,chiral,1
+12a_1012,2,4,3,,2,chiral,1
+12a_1013,2,5,3,,2,chiral,1
+12a_1014,2,4,3,,2,chiral,1
+12a_1015,2,4,3,,2,chiral,1
+12a_1016,[2; 3],3,3,,2,chiral,1
+12a_1017,[2; 3],4,3,,2,chiral,1
+12a_1018,2,3,3,,2,chiral,1
+12a_1019,2,4,3,,2,fully amphicheiral,D6
+12a_1020,2,4,3,,2,reversible,D1
+12a_1021,2,4,3,,2,chiral,1
+12a_1022,2,3,3,,2,reversible,D3
+12a_1023,1,4,2,,1,reversible,D2
+12a_1024,2,3,2,,1,reversible,D2
+12a_1025,2,4,3,,2,reversible,D2
+12a_1026,2,3,3,,2,reversible,D2
+12a_1027,2,5,3,,2,reversible,D1
+12a_1028,[2; 3],4,3,,2,reversible,D1
+12a_1029,2,4,2,,1,reversible,D2
+12a_1030,2,3,2,,1,reversible,D2
+12a_1031,[2; 3],4,3,,2,reversible,D1
+12a_1032,2,3,3,,2,reversible,D1
+12a_1033,2,3,2,,1,reversible,D2
+12a_1034,1,2,2,,1,reversible,D2
+12a_1035,[3; 4],3,3,,2,reversible,D1
+12a_1036,3,4,3,,2,chiral,1
+12a_1037,[2; 3; 4],2,3,,2,reversible,D1
+12a_1038,2,3,3,,2,chiral,1
+12a_1039,[2; 3],4,2,,1,fully amphicheiral,D4
+12a_1040,[2; 3],3,2,,1,reversible,D2
+12a_1041,2,4,3,,2,reversible,D1
+12a_1042,2,4,3,,2,reversible,D1
+12a_1043,2,3,3,,2,reversible,D1
+12a_1044,2,3,3,,2,reversible,D1
+12a_1045,2,4,3,,2,reversible,D1
+12a_1046,2,3,3,,2,reversible,D1
+12a_1047,2,5,3,,2,chiral,1
+12a_1048,1,4,3,,2,chiral,1
+12a_1049,2,4,3,,2,chiral,1
+12a_1050,[2; 3],4,3,,2,reversible,D1
+12a_1051,2,5,3,,2,chiral,1
+12a_1052,2,4,3,,2,chiral,1
+12a_1053,2,4,3,,2,chiral,1
+12a_1054,2,4,3,,2,chiral,1
+12a_1055,2,3,3,,2,chiral,1
+12a_1056,1,4,3,,2,chiral,1
+12a_1057,2,3,3,,2,chiral,1
+12a_1058,2,3,3,,2,chiral,1
+12a_1059,3,4,3,,2,chiral,Z2
+12a_1060,1,4,3,,2,chiral,1
+12a_1061,2,4,3,,2,chiral,1
+12a_1062,2,3,3,,2,chiral,Z2
+12a_1063,1,3,3,,2,chiral,1
+12a_1064,2,4,3,,2,chiral,1
+12a_1065,2,4,3,,2,chiral,1
+12a_1066,[2; 3],4,3,,2,chiral,1
+12a_1067,2,4,3,,2,chiral,1
+12a_1068,2,3,3,,2,chiral,1
+12a_1069,2,3,3,,2,chiral,1
+12a_1070,2,4,3,,2,chiral,1
+12a_1071,2,4,3,,2,chiral,1
+12a_1072,2,4,3,,2,chiral,1
+12a_1073,2,3,3,,2,chiral,1
+12a_1074,2,4,3,,2,chiral,1
+12a_1075,2,3,3,,2,chiral,1
+12a_1076,1,4,3,,2,chiral,1
+12a_1077,2,3,3,,2,chiral,1
+12a_1078,2,4,3,,2,chiral,1
+12a_1079,2,4,3,,2,chiral,1
+12a_1080,[2; 3],4,3,,2,chiral,1
+12a_1081,1,4,3,,2,chiral,1
+12a_1082,2,4,3,,2,chiral,1
+12a_1083,2,4,3,,2,chiral,1
+12a_1084,[2; 3],4,3,,2,chiral,1
+12a_1085,[2; 3],3,3,,2,chiral,1
+12a_1086,2,3,3,,2,chiral,1
+12a_1087,2,4,3,,2,chiral,1
+12a_1088,2,4,3,,2,chiral,1
+12a_1089,[2; 3],4,3,,2,chiral,1
+12a_1090,2,3,3,,2,chiral,1
+12a_1091,2,4,3,,2,chiral,1
+12a_1092,2,4,3,,2,chiral,1
+12a_1093,2,4,3,,2,chiral,1
+12a_1094,2,3,3,,2,chiral,1
+12a_1095,2,3,3,,2,chiral,1
+12a_1096,2,4,3,,2,chiral,1
+12a_1097,[2; 3; 4],2,3,,2,chiral,Z2
+12a_1098,2,3,3,,2,chiral,1
+12a_1099,[2; 3],4,3,,2,chiral,1
+12a_1100,2,4,3,,2,reversible,D1
+12a_1101,2,4,3,,2,chiral,1
+12a_1102,2,4,3,,2,negative amphicheiral,D1
+12a_1103,[2; 3],3,3,,2,chiral,1
+12a_1104,2,4,3,,2,chiral,1
+12a_1105,2,4,3,,2,fully amphicheiral,D2
+12a_1106,2,3,3,,2,reversible,D1
+12a_1107,[2; 3],4,3,,2,chiral,1
+12a_1108,2,3,3,,2,chiral,1
+12a_1109,[2; 3],4,3,,2,reversible,D1
+12a_1110,2,3,3,,2,chiral,1
+12a_1111,2,4,3,,2,chiral,1
+12a_1112,[3; 4],3,3,,2,reversible,D1
+12a_1113,[2; 3; 4],2,3,,2,reversible,D1
+12a_1114,[3; 4],5,3,,2,reversible,D1
+12a_1115,[2; 3; 4],4,3,,2,reversible,D1
+12a_1116,[2; 3; 4],4,3,,2,reversible,D1
+12a_1117,2,3,3,,2,reversible,D2
+12a_1118,[2; 3],3,3,,2,reversible,D1
+12a_1119,2,4,3,,2,chiral,1
+12a_1120,2,5,3,,2,chiral,1
+12a_1121,2,4,3,,2,chiral,1
+12a_1122,2,4,3,,2,chiral,1
+12a_1123,2,4,3,,2,negative amphicheiral,D1
+12a_1124,[2; 3],3,3,,2,negative amphicheiral,D2
+12a_1125,2,3,2,,1,reversible,D2
+12a_1126,1,2,2,,1,reversible,D2
+12a_1127,[2; 3],2,2,,1,fully amphicheiral,D4
+12a_1128,1,5,2,,1,reversible,D2
+12a_1129,1,4,2,,1,reversible,D2
+12a_1130,1,4,2,,1,reversible,D2
+12a_1131,2,4,2,,1,reversible,D2
+12a_1132,2,3,2,,1,reversible,D2
+12a_1133,2,3,2,,1,reversible,D2
+12a_1134,2,5,2,,1,reversible,D2
+12a_1135,1,4,2,,1,reversible,D2
+12a_1136,2,4,2,,1,reversible,D2
+12a_1137,2,3,3,,2,reversible,D2
+12a_1138,2,3,2,,1,reversible,D2
+12a_1139,1,2,2,,1,reversible,D2
+12a_1140,1,3,2,,1,reversible,D2
+12a_1141,2,4,3,,2,chiral,1
+12a_1142,2,3,3,,2,reversible,D2
+12a_1143,2,3,3,,2,chiral,1
+12a_1144,2,2,3,,2,reversible,D2
+12a_1145,2,4,2,,1,reversible,D2
+12a_1146,2,3,2,,1,reversible,D2
+12a_1147,[2; 3],4,3,,2,reversible,D2
+12a_1148,[2; 3],3,2,,1,reversible,D2
+12a_1149,2,2,2,,1,reversible,D2
+12a_1150,2,4,3,,2,chiral,1
+12a_1151,[2; 3],3,3,,2,chiral,1
+12a_1152,2,4,3,,2,negative amphicheiral,D2
+12a_1153,2,4,3,,2,chiral,1
+12a_1154,2,3,3,,2,chiral,1
+12a_1155,2,3,3,,2,chiral,1
+12a_1156,2,4,3,,2,reversible,D1
+12a_1157,3,4,2,,1,reversible,D2
+12a_1158,2,3,2,,1,reversible,D2
+12a_1159,[2; 3],3,2,,1,reversible,D2
+12a_1160,[2; 3],2,3,,2,reversible,D2
+12a_1161,2,2,2,,1,reversible,D2
+12a_1162,[2; 3],3,2,,1,reversible,D2
+12a_1163,[2; 3],2,2,,1,reversible,D2
+12a_1164,[2; 3; 4],3,3,,2,reversible,D2
+12a_1165,[2; 3],2,2,,1,reversible,D2
+12a_1166,2,1,2,,1,reversible,D2
+12a_1167,2,4,3,,2,negative amphicheiral,D1
+12a_1168,2,5,3,,2,chiral,1
+12a_1169,1,4,3,,2,chiral,1
+12a_1170,2,4,3,,2,chiral,1
+12a_1171,2,3,3,,2,chiral,1
+12a_1172,2,4,3,,2,chiral,1
+12a_1173,2,3,3,,2,reversible,D1
+12a_1174,2,4,3,,2,chiral,1
+12a_1175,2,4,3,,2,chiral,1
+12a_1176,1,5,3,,2,reversible,D1
+12a_1177,2,4,3,,2,reversible,D1
+12a_1178,2,4,3,,2,reversible,D1
+12a_1179,2,3,3,,2,reversible,D1
+12a_1180,2,4,3,,2,reversible,D1
+12a_1181,2,3,3,,2,reversible,D1
+12a_1182,1,4,3,,2,reversible,D1
+12a_1183,2,3,3,,2,reversible,D1
+12a_1184,[2; 3],4,3,,2,chiral,1
+12a_1185,2,3,3,,2,chiral,1
+12a_1186,2,4,3,,2,chiral,1
+12a_1187,1,4,3,,2,chiral,1
+12a_1188,1,4,3,,2,negative amphicheiral,D1
+12a_1189,2,3,3,,2,chiral,1
+12a_1190,2,4,3,,2,chiral,1
+12a_1191,2,5,3,,2,chiral,1
+12a_1192,2,4,3,,2,chiral,1
+12a_1193,2,4,3,,2,reversible,D1
+12a_1194,3,4,3,,2,reversible,D1
+12a_1195,2,4,3,,2,chiral,1
+12a_1196,2,4,3,,2,reversible,D1
+12a_1197,2,4,3,,2,chiral,1
+12a_1198,1,3,3,,2,chiral,1
+12a_1199,1,5,3,,2,reversible,D1
+12a_1200,2,4,3,,2,reversible,D1
+12a_1201,2,4,3,,2,chiral,1
+12a_1202,[2; 3],2,3,,2,fully amphicheiral,D6
+12a_1203,2,5,3,,2,reversible,D1
+12a_1204,2,4,3,,2,chiral,1
+12a_1205,[2; 3],3,3,,2,reversible,D1
+12a_1206,2,3,3,,2,reversible,D2
+12a_1207,2,4,3,,2,chiral,1
+12a_1208,2,3,3,,2,chiral,1
+12a_1209,2,5,3,,2,negative amphicheiral,D1
+12a_1210,[2; 3],5,3,,2,reversible,D2
+12a_1211,2,5,3,,2,negative amphicheiral,D1
+12a_1212,2,5,3,,2,reversible,D1
+12a_1213,2,4,3,,2,reversible,D1
+12a_1214,4,5,3,,1,reversible,D2
+12a_1215,2,5,3,,2,chiral,1
+12a_1216,2,4,3,,2,reversible,D1
+12a_1217,1,3,3,,2,reversible,D1
+12a_1218,2,5,3,,2,negative amphicheiral,D1
+12a_1219,1,5,3,,2,chiral,1
+12a_1220,3,5,3,,2,reversible,D1
+12a_1221,2,5,3,,2,chiral,1
+12a_1222,2,5,3,,2,reversible,D1
+12a_1223,[2; 3],5,3,,2,chiral,1
+12a_1224,2,4,3,,2,chiral,1
+12a_1225,2,5,3,,2,negative amphicheiral,D1
+12a_1226,2,5,3,,2,chiral,1
+12a_1227,2,5,3,,2,chiral,1
+12a_1228,1,4,3,,2,chiral,1
+12a_1229,2,5,3,,2,negative amphicheiral,D2
+12a_1230,2,5,3,,2,chiral,1
+12a_1231,1,5,3,,2,chiral,1
+12a_1232,2,4,3,,2,chiral,1
+12a_1233,2,5,3,,2,reversible,D1
+12a_1234,2,4,3,,2,reversible,D1
+12a_1235,1,5,3,,2,chiral,1
+12a_1236,2,4,3,,2,chiral,1
+12a_1237,2,4,3,,2,chiral,1
+12a_1238,2,5,3,,2,chiral,1
+12a_1239,1,4,3,,2,chiral,1
+12a_1240,[2; 3],4,3,,2,chiral,1
+12a_1241,2,3,3,,2,chiral,1
+12a_1242,3,4,3,,2,reversible,D1
+12a_1243,[2; 3],3,3,,2,reversible,D1
+12a_1244,2,4,3,,2,chiral,1
+12a_1245,1,3,3,,2,chiral,1
+12a_1246,2,5,3,,2,reversible,D1
+12a_1247,[2; 3],4,3,,2,reversible,D1
+12a_1248,2,5,3,,2,reversible,D1
+12a_1249,1,5,3,,2,negative amphicheiral,D1
+12a_1250,1,5,3,,2,reversible,D1
+12a_1251,2,3,3,,2,negative amphicheiral,D2
+12a_1252,2,4,3,,2,chiral,1
+12a_1253,2,5,3,,2,chiral,1
+12a_1254,[2; 3],5,3,,2,negative amphicheiral,D1
+12a_1255,[2; 3],5,3,,2,chiral,1
+12a_1256,[2; 3],4,3,,2,chiral,1
+12a_1257,2,4,3,,2,chiral,1
+12a_1258,1,5,3,,2,chiral,1
+12a_1259,2,4,3,,2,chiral,1
+12a_1260,2,5,3,,2,negative amphicheiral,D1
+12a_1261,2,4,3,,2,chiral,Z2
+12a_1262,2,4,3,,2,chiral,1
+12a_1263,2,3,3,,2,chiral,1
+12a_1264,2,4,3,,2,chiral,1
+12a_1265,2,3,3,,2,chiral,1
+12a_1266,[2; 3],3,3,,2,chiral,Z2
+12a_1267,2,3,3,,2,negative amphicheiral,D1
+12a_1268,1,4,3,,2,chiral,1
+12a_1269,[2; 3],3,3,,2,negative amphicheiral,D1
+12a_1270,2,4,3,,2,reversible,D1
+12a_1271,1,3,3,,2,chiral,1
+12a_1272,2,4,3,,2,chiral,1
+12a_1273,1,5,2,,1,fully amphicheiral,D4
+12a_1274,2,4,2,,1,reversible,D2
+12a_1275,2,3,2,,1,fully amphicheiral,D4
+12a_1276,2,4,2,,1,reversible,D2
+12a_1277,2,3,2,,1,reversible,D2
+12a_1278,[2; 3],3,2,,1,reversible,D2
+12a_1279,[2; 3],2,2,,1,reversible,D2
+12a_1280,2,4,3,,2,negative amphicheiral,D1
+12a_1281,[2; 3],3,2,,1,fully amphicheiral,D4
+12a_1282,[2; 3],2,2,,1,reversible,D2
+12a_1283,2,5,3,,2,reversible,D2
+12a_1284,2,4,3,,2,reversible,D2
+12a_1285,[2; 3],4,3,,2,reversible,D2
+12a_1286,[2; 3],3,3,,2,reversible,D2
+12a_1287,[2; 3],1,2,,1,fully amphicheiral,D4
+12a_1288,[2; 3],5,3,,2,fully amphicheiral,D4
+12n_1,1,3,3,,,chiral,1
+12n_2,[1; 2],4,3,,,chiral,1
+12n_3,[1; 2],3,3,,,chiral,1
+12n_4,1,3,3,,,chiral,1
+12n_5,1,3,3,,,chiral,1
+12n_6,2,4,3,,,chiral,1
+12n_7,1,3,3,,,chiral,1
+12n_8,[2; 3],4,3,,,chiral,1
+12n_9,[1; 2],3,3,,,chiral,1
+12n_10,2,3,3,,,chiral,1
+12n_11,[1; 2],2,3,,1,reversible,D1
+12n_12,[1; 2],3,3,,1,reversible,D1
+12n_13,1,2,3,,1,reversible,D1
+12n_14,[1; 2],3,3,,,chiral,1
+12n_15,2,3,3,,,chiral,1
+12n_16,2,4,3,,,reversible,D1
+12n_17,2,3,3,,,chiral,1
+12n_18,[1; 2],3,3,,,chiral,1
+12n_19,[1; 2],3,3,,,chiral,1
+12n_20,1,3,3,,,chiral,1
+12n_21,[1; 2],3,3,,,chiral,1
+12n_22,[1; 2],4,3,,,chiral,1
+12n_23,1,2,3,,,chiral,1
+12n_24,1,3,3,,,chiral,1
+12n_25,1,2,3,,1,reversible,D1
+12n_26,[1; 2],3,3,,,chiral,1
+12n_27,2,4,3,,,chiral,1
+12n_28,1,3,3,,,chiral,1
+12n_29,[1; 2],3,3,,,chiral,1
+12n_30,[1; 2],4,3,,,chiral,1
+12n_31,1,3,3,,,chiral,1
+12n_32,[1; 2],3,3,,,chiral,1
+12n_33,2,4,3,,,chiral,1
+12n_34,1,2,3,,,chiral,1
+12n_35,1,3,3,,1,reversible,D1
+12n_36,1,3,3,,1,reversible,D1
+12n_37,2,4,3,,1,reversible,D1
+12n_38,1,3,3,,1,reversible,D1
+12n_39,1,3,3,,1,reversible,D1
+12n_40,2,4,3,,1,reversible,D1
+12n_41,[1; 2],3,3,,1,reversible,D1
+12n_42,[1; 2],3,3,,1,reversible,D1
+12n_43,[1; 2],4,3,,1,reversible,D1
+12n_44,[1; 2],3,3,,1,reversible,D1
+12n_45,[1; 2],3,3,,1,reversible,D1
+12n_46,1,2,3,,1,reversible,D1
+12n_47,[1; 2],3,3,,1,reversible,D1
+12n_48,[1; 2],2,3,,1,reversible,D1
+12n_49,[1; 2],2,3,,,chiral,1
+12n_50,[1; 2],3,3,,,chiral,1
+12n_51,[1; 2],2,3,,,chiral,1
+12n_52,2,3,3,,,reversible,D1
+12n_53,[1; 2],2,3,,,reversible,D1
+12n_54,2,3,3,,1,reversible,D1
+12n_55,2,3,4,,,reversible,D1
+12n_56,2,3,4,,,reversible,D1
+12n_57,2,2,4,,,reversible,D1
+12n_58,2,3,4,,,reversible,D1
+12n_59,3,4,4,,,reversible,D1
+12n_60,2,4,4,,,reversible,D1
+12n_61,2,4,4,,,reversible,D1
+12n_62,2,3,4,,,reversible,D1
+12n_63,2,3,4,,,reversible,D1
+12n_64,2,4,4,,,reversible,D1
+12n_65,1,2,3,,1,reversible,D1
+12n_66,2,3,4,,,reversible,D1
+12n_67,3,4,4,,,reversible,D1
+12n_68,3,4,3,,,chiral,1
+12n_69,1,3,3,,,chiral,1
+12n_70,1,3,3,,,chiral,1
+12n_71,[1; 2],4,3,,,chiral,1
+12n_72,2,3,3,,,chiral,1
+12n_73,2,3,3,,,chiral,1
+12n_74,4,4,3,,,chiral,1
+12n_75,[1; 2; 3],3,3,,,chiral,1
+12n_76,2,3,3,,,chiral,1
+12n_77,3,3,3,,1,reversible,D1
+12n_78,2,2,3,,1,reversible,D1
+12n_79,1,2,3,,1,reversible,D1
+12n_80,[1; 2],3,3,,,chiral,1
+12n_81,2,3,3,,,chiral,1
+12n_82,[1; 2],3,3,,,chiral,1
+12n_83,2,3,3,,,chiral,1
+12n_84,[1; 2; 3],3,3,,,chiral,1
+12n_85,2,3,3,,,chiral,1
+12n_86,[1; 2],3,3,,,chiral,1
+12n_87,[1; 2],3,3,,,chiral,1
+12n_88,3,3,3,,,reversible,D1
+12n_89,3,4,3,,,chiral,1
+12n_90,[2; 3],4,3,,,chiral,1
+12n_91,4,4,3,,,chiral,1
+12n_92,[1; 2; 3],4,3,,,chiral,1
+12n_93,3,4,3,,,chiral,1
+12n_94,2,3,3,,,chiral,1
+12n_95,2,3,3,,,chiral,1
+12n_96,3,3,3,,,chiral,1
+12n_97,[1; 2],3,3,,,chiral,1
+12n_98,[2; 3],4,3,,,chiral,1
+12n_99,2,3,3,,,chiral,1
+12n_100,[3; 4],3,3,,,chiral,1
+12n_101,[1; 2; 3],3,3,,,chiral,1
+12n_102,2,3,3,,,chiral,1
+12n_103,3,4,3,,,chiral,1
+12n_104,[2; 3],4,3,,,chiral,1
+12n_105,4,4,3,,,chiral,1
+12n_106,[1; 2],4,3,,,chiral,1
+12n_107,3,4,3,,,chiral,1
+12n_108,2,3,3,,,chiral,1
+12n_109,2,3,3,,,chiral,1
+12n_110,3,3,3,,,chiral,1
+12n_111,[1; 2],3,3,,,chiral,1
+12n_112,2,3,3,,,chiral,1
+12n_113,[2; 3],4,3,,,chiral,1
+12n_114,3,4,3,,,chiral,1
+12n_115,[1; 2; 3],4,3,,,chiral,1
+12n_116,2,3,3,,,chiral,1
+12n_117,2,3,3,,,chiral,1
+12n_118,[1; 2; 3],3,3,,,chiral,1
+12n_119,2,3,3,,,chiral,1
+12n_120,2,3,3,,,chiral,1
+12n_121,1,2,3,,1,reversible,D1
+12n_122,[1; 2],4,3,,,chiral,1
+12n_123,2,3,3,,,chiral,1
+12n_124,1,2,3,,,chiral,1
+12n_125,[2; 3],4,3,,,chiral,1
+12n_126,2,3,3,,,chiral,1
+12n_127,[1; 2],4,3,,,chiral,1
+12n_128,2,3,3,,,chiral,1
+12n_129,1,3,3,,,chiral,1
+12n_130,2,3,3,,,chiral,1
+12n_131,[1; 2],3,3,,,chiral,1
+12n_132,[1; 2],3,3,,,chiral,1
+12n_133,3,3,3,,,chiral,Z2
+12n_134,3,4,3,,,chiral,1
+12n_135,[2; 3],4,3,,,chiral,1
+12n_136,4,4,3,,,chiral,1
+12n_137,[1; 2; 3],4,3,,,chiral,1
+12n_138,3,4,3,,,chiral,1
+12n_139,[2; 3],4,3,,,chiral,1
+12n_140,[1; 2; 3],3,3,,,chiral,1
+12n_141,[1; 2],3,3,,,chiral,1
+12n_142,1,3,3,,,reversible,D1
+12n_143,2,3,3,,,reversible,D1
+12n_144,2,3,3,,,reversible,D1
+12n_145,2,2,3,,,reversible,D1
+12n_146,1,2,3,,,chiral,Z2
+12n_147,3,3,3,,2,reversible,D2
+12n_148,3,3,3,,,chiral,Z2
+12n_149,2,2,3,,,chiral,Z2
+12n_150,2,4,3,,1,reversible,D1
+12n_151,2,3,3,,1,reversible,D1
+12n_152,1,3,3,,1,reversible,D1
+12n_153,4,4,3,,1,reversible,D1
+12n_154,[1; 2],3,3,,1,reversible,D1
+12n_155,2,3,3,,1,reversible,D1
+12n_156,2,4,3,,,reversible,D1
+12n_157,2,3,3,,,reversible,D1
+12n_158,[1; 2],3,3,,,reversible,D1
+12n_159,[1; 2],3,3,,1,reversible,D1
+12n_160,[1; 2],3,3,,1,reversible,D1
+12n_161,2,3,3,,1,reversible,D1
+12n_162,[1; 2],3,3,,1,reversible,D1
+12n_163,3,4,3,,1,reversible,D1
+12n_164,2,3,3,,1,reversible,D1
+12n_165,1,3,3,,1,reversible,D1
+12n_166,4,4,3,,1,reversible,D1
+12n_167,[1; 2; 3],3,3,,1,reversible,D1
+12n_168,2,3,3,,1,reversible,D1
+12n_169,[3; 4],3,3,,1,reversible,D1
+12n_170,[1; 2],2,3,,1,reversible,D1
+12n_171,2,2,3,,1,reversible,D1
+12n_172,3,4,3,,1,reversible,D1
+12n_173,2,4,3,,,chiral,1
+12n_174,2,4,3,,,chiral,1
+12n_175,2,4,3,,,chiral,1
+12n_176,[1; 2],2,3,,,chiral,1
+12n_177,3,3,3,,,chiral,1
+12n_178,[1; 2],3,3,,,chiral,1
+12n_179,2,3,3,,,chiral,1
+12n_180,[1; 2],3,3,,,chiral,1
+12n_181,[1; 2],3,3,,,chiral,1
+12n_182,[1; 2],4,3,,,chiral,1
+12n_183,2,3,3,,,chiral,1
+12n_184,[1; 2],3,3,,,chiral,1
+12n_185,3,4,3,,,chiral,1
+12n_186,[2; 3],4,3,,,chiral,1
+12n_187,4,4,3,,,chiral,1
+12n_188,2,4,3,,,chiral,1
+12n_189,[1; 2],4,3,,,chiral,1
+12n_190,[2; 3],4,3,,,chiral,1
+12n_191,3,4,3,,,chiral,1
+12n_192,[1; 2; 3],4,3,,,chiral,1
+12n_193,[2; 3],3,3,,,chiral,1
+12n_194,2,3,3,,,chiral,1
+12n_195,[1; 2],3,3,,,chiral,1
+12n_196,[2; 3],3,3,,,chiral,1
+12n_197,[1; 2],3,3,,,chiral,1
+12n_198,1,3,3,,1,reversible,D1
+12n_199,2,3,3,,1,reversible,D1
+12n_200,2,2,3,,1,reversible,D1
+12n_201,2,3,3,,,chiral,1
+12n_202,[2;3],3,3,,,chiral,1
+12n_203,[3; 4],3,3,,,chiral,1
+12n_204,[2; 3],3,3,,,reversible,D1
+12n_205,2,4,3,,,chiral,1
+12n_206,2,4,3,,,chiral,1
+12n_207,3,4,3,,,reversible,D1
+12n_208,[2; 3],3,3,,,chiral,1
+12n_209,2,3,3,,,chiral,1
+12n_210,[1; 2],3,3,,,chiral,1
+12n_211,2,3,3,,,reversible,D1
+12n_212,[2;3],3,3,,,chiral,1
+12n_213,2,3,3,,,chiral,1
+12n_214,[1; 2],3,3,,,chiral,1
+12n_215,2,3,3,,,chiral,1
+12n_216,[1; 2; 3],3,3,,,chiral,1
+12n_217,3,3,3,,,chiral,1
+12n_218,1,3,3,,1,reversible,D1
+12n_219,2,4,4,,,reversible,D1
+12n_220,3,4,4,,,reversible,D2
+12n_221,2,3,4,,,reversible,D1
+12n_222,2,3,4,,,reversible,D2
+12n_223,2,3,4,,,reversible,D2
+12n_224,2,3,4,,,reversible,D1
+12n_225,2,2,4,,,reversible,D2
+12n_226,2,4,3,,,chiral,1
+12n_227,2,4,3,,,chiral,1
+12n_228,3,4,3,,,reversible,D1
+12n_229,3,4,4,,,reversible,D2
+12n_230,[1; 2],3,3,,,reversible,D1
+12n_231,1,3,3,,,chiral,1
+12n_232,1,2,3,,,chiral,1
+12n_233,[2; 3],4,3,,1,reversible,D1
+12n_234,3,4,3,,1,reversible,D1
+12n_235,[2; 3],4,3,,1,reversible,D1
+12n_236,[2; 3],3,3,,1,reversible,D1
+12n_237,2,3,3,,1,reversible,D1
+12n_238,[1; 2],3,3,,1,reversible,D1
+12n_239,[2; 3],3,3,,1,reversible,D1
+12n_240,2,3,3,,1,reversible,D1
+12n_241,[1; 2],3,3,,1,reversible,D1
+12n_242,5,5,3,,1,reversible,D1
+12n_243,4,4,3,,1,reversible,D1
+12n_244,4,4,3,,1,reversible,D1
+12n_245,[3; 4],3,3,,,reversible,D1
+12n_246,[1; 2],2,3,,,reversible,D1
+12n_247,2,2,3,,,reversible,D1
+12n_248,[2; 3],2,3,,1,reversible,D1
+12n_249,1,2,3,,1,reversible,D1
+12n_250,1,2,3,,1,reversible,D1
+12n_251,3,3,3,,1,reversible,D1
+12n_252,1,3,3,,,chiral,1
+12n_253,[2; 3],3,3,,,chiral,1
+12n_254,2,3,3,,,chiral,1
+12n_255,1,3,3,,,chiral,1
+12n_256,2,3,3,,,chiral,1
+12n_257,2,3,3,,,chiral,1
+12n_258,[1; 2],2,3,,,reversible,D1
+12n_259,[3; 4],3,3,,,chiral,1
+12n_260,[2; 3],2,3,,,reversible,D1
+12n_261,2,4,4,,,reversible,D2
+12n_262,1,3,3,,,chiral,1
+12n_263,1,3,3,,,chiral,1
+12n_264,2,3,3,,,chiral,1
+12n_265,[1; 2],3,3,,,chiral,1
+12n_266,2,3,3,,,chiral,1
+12n_267,2,3,3,,,chiral,1
+12n_268,2,2,3,,,chiral,1
+12n_269,2,3,3,,,reversible,D1
+12n_270,[2; 3],2,3,,,reversible,D1
+12n_271,1,3,3,,,reversible,D1
+12n_272,1,3,3,,,reversible,D1
+12n_273,2,3,3,,,reversible,D2
+12n_274,2,2,3,,,reversible,D2
+12n_275,1,2,3,,,chiral,Z2
+12n_276,3,3,3,,2,reversible,D6
+12n_277,1,3,3,,,chiral,Z2
+12n_278,2,2,3,,,chiral,Z2
+12n_279,1,2,3,,,reversible,D1
+12n_280,[1; 2],3,3,,,reversible,D1
+12n_281,[1; 2],3,3,,,chiral,1
+12n_282,[1; 2],2,3,,,reversible,D1
+12n_283,2,4,3,,,reversible,D1
+12n_284,[1; 2],3,3,,,reversible,D1
+12n_285,[1; 2],3,3,,,reversible,D1
+12n_286,[1; 2],2,3,,,chiral,Z2
+12n_287,[1; 2],4,3,,,reversible,D1
+12n_288,[1; 2],2,3,,1,reversible,D1
+12n_289,3,3,3,,1,reversible,D2
+12n_290,2,3,3,,,chiral,1
+12n_291,[1; 2; 3],3,3,,,chiral,1
+12n_292,4,4,3,,,chiral,1
+12n_293,2,2,3,,1,reversible,D2
+12n_294,[2; 3],4,3,,,reversible,D2
+12n_295,[1; 2],3,3,,,reversible,D1
+12n_296,2,4,3,,,reversible,D1
+12n_297,2,3,3,,,reversible,D2
+12n_298,[1; 2],3,3,,,chiral,1
+12n_299,2,3,3,,,reversible,D1
+12n_300,1,3,3,,,reversible,D1
+12n_301,[1; 2],4,3,,,reversible,D1
+12n_302,[1; 2],3,3,,,reversible,D2
+12n_303,2,3,3,,1,reversible,D1
+12n_304,[1; 2; 3],3,3,,1,reversible,D1
+12n_305,4,4,3,,1,reversible,D1
+12n_306,1,2,3,,1,reversible,D1
+12n_307,[1; 2; 3],2,3,,1,reversible,D1
+12n_308,3,3,3,,1,reversible,D1
+12n_309,[1; 2],3,3,,1,reversible,D1
+12n_310,1,2,3,,1,reversible,D1
+12n_311,1,2,3,,,reversible,D1
+12n_312,[1; 2],3,3,,,chiral,1
+12n_313,1,2,3,,,chiral,1
+12n_314,[1; 2],3,3,,,reversible,D1
+12n_315,[1; 2],3,3,,,chiral,1
+12n_316,2,3,3,,,chiral,1
+12n_317,2,3,3,,,chiral,1
+12n_318,[1; 2],3,3,,,chiral,1
+12n_319,2,3,3,,,chiral,1
+12n_320,1,3,3,,,chiral,1
+12n_321,2,2,3,,,reversible,D1
+12n_322,1,2,3,,,chiral,Z2
+12n_323,[1; 2],2,3,,,chiral,1
+12n_324,[1; 2],2,3,,,chiral,1
+12n_325,1,3,3,,,chiral,1
+12n_326,2,4,3,,,chiral,1
+12n_327,2,4,3,,,chiral,1
+12n_328,4,4,3,,,reversible,D1
+12n_329,3,3,3,,,reversible,D1
+12n_330,[1; 2],3,3,,,reversible,D1
+12n_331,2,3,3,,,chiral,1
+12n_332,2,2,3,,2,reversible,D2
+12n_333,2,2,3,,2,reversible,D2
+12n_334,2,2,3,,2,chiral,Z2
+12n_335,2,3,3,,,chiral,1
+12n_336,2,3,3,,,chiral,1
+12n_337,[1; 2],3,3,,,chiral,Z2
+12n_338,4,4,3,,,reversible,D1
+12n_339,2,3,3,,,reversible,D1
+12n_340,1,3,3,,,reversible,D1
+12n_341,3,3,3,,,reversible,D1
+12n_342,1,2,3,,,reversible,D1
+12n_343,1,2,3,,,reversible,D1
+12n_344,2,4,3,,,chiral,1
+12n_345,[1; 2],4,3,,,chiral,1
+12n_346,[1; 2],4,3,,,chiral,1
+12n_347,1,3,3,,,reversible,D1
+12n_348,[1; 2],3,3,,,chiral,1
+12n_349,2,3,3,,,chiral,1
+12n_350,1,3,3,,,chiral,1
+12n_351,[1; 2],3,3,,,chiral,1
+12n_352,1,3,3,,,reversible,D1
+12n_353,[1; 2],3,3,,,chiral,1
+12n_354,[1; 2],3,3,,,reversible,D1
+12n_355,2,3,3,,,reversible,D1
+12n_356,2,3,3,,,negative amphicheiral,D1
+12n_357,2,3,3,,,chiral,1
+12n_358,1,2,3,,,chiral,1
+12n_359,[1; 2],2,3,,,chiral,1
+12n_360,1,2,3,,,chiral,1
+12n_361,[2; 3],3,3,,,chiral,1
+12n_362,1,3,3,,,chiral,1
+12n_363,[1; 2],3,3,,,chiral,1
+12n_364,2,3,3,,,chiral,1
+12n_365,2,3,3,,,chiral,1
+12n_366,3,3,3,,,chiral,1
+12n_367,[1; 2],3,3,,,chiral,1
+12n_368,3,4,3,,,chiral,1
+12n_369,1,4,3,,,chiral,1
+12n_370,1,3,3,,,reversible,D1
+12n_371,1,3,3,,,reversible,D1
+12n_372,1,3,3,,,chiral,1
+12n_373,2,3,3,,,reversible,D1
+12n_374,4,4,3,,,reversible,D1
+12n_375,2,3,3,,,reversible,D1
+12n_376,[1; 2],4,3,,,chiral,1
+12n_377,[1; 2],3,3,,,reversible,D1
+12n_378,[1; 2],3,3,,,chiral,1
+12n_379,2,3,3,,2,reversible,D1
+12n_380,2,3,3,,2,reversible,D2
+12n_381,1,2,3,,,chiral,1
+12n_382,[1; 2],2,3,,,chiral,1
+12n_383,[1; 2],2,3,,,reversible,D1
+12n_384,2,3,3,,,chiral,1
+12n_385,[1; 2],3,3,,,chiral,1
+12n_386,4,4,3,,2,reversible,D2
+12n_387,3,4,3,,2,reversible,D2
+12n_388,2,3,3,,2,reversible,D1
+12n_389,2,3,3,,2,reversible,D2
+12n_390,[1; 2],3,3,,,chiral,1
+12n_391,2,3,3,,,reversible,D1
+12n_392,1,3,3,,,reversible,D1
+12n_393,2,2,3,,,chiral,1
+12n_394,2,2,3,,,reversible,D1
+12n_395,2,3,3,,,reversible,D1
+12n_396,[1; 2],3,3,,,chiral,1
+12n_397,2,3,3,,,reversible,D1
+12n_398,2,3,3,,,chiral,1
+12n_399,[1; 2],3,3,,,chiral,1
+12n_400,1,3,3,,,chiral,1
+12n_401,2,3,3,,,chiral,1
+12n_402,3,3,3,,2,reversible,D2
+12n_403,2,3,3,,,reversible,D2
+12n_404,[2; 3],2,3,,,reversible,D2
+12n_405,2,4,3,,,chiral,1
+12n_406,[3; 4],3,3,,,chiral,1
+12n_407,2,3,3,,,chiral,1
+12n_408,[1; 2],3,3,,,chiral,1
+12n_409,2,3,3,,,chiral,1
+12n_410,2,3,3,,,chiral,1
+12n_411,[1; 2],2,3,,,reversible,D1
+12n_412,1,3,3,,,chiral,1
+12n_413,2,3,3,,,chiral,1
+12n_414,2,2,3,,,reversible,D1
+12n_415,[1; 2],3,3,,,chiral,1
+12n_416,[2; 3],4,3,,,reversible,D1
+12n_417,4,4,3,,,reversible,D1
+12n_418,3,4,3,,,chiral,1
+12n_419,3,4,3,,,chiral,1
+12n_420,2,3,3,,,reversible,D1
+12n_421,[1; 2],3,3,,,chiral,1
+12n_422,[1; 2],3,3,,,chiral,1
+12n_423,2,3,3,,,chiral,1
+12n_424,1,4,3,,,chiral,1
+12n_425,2,4,3,,,reversible,D1
+12n_426,4,4,3,,,reversible,D2
+12n_427,2,4,3,,,chiral,1
+12n_428,3,4,3,,,chiral,1
+12n_429,1,2,3,,,chiral,1
+12n_430,1,2,3,,,chiral,1
+12n_431,[1; 2],3,3,,,chiral,1
+12n_432,[2; 3],2,3,,,reversible,D1
+12n_433,2,3,3,,,reversible,D1
+12n_434,1,3,3,,,chiral,1
+12n_435,1,3,3,,,chiral,1
+12n_436,2,3,3,,,reversible,D1
+12n_437,[1; 2],3,3,,,chiral,1
+12n_438,2,3,3,,,reversible,D1
+12n_439,[1; 2; 3],3,3,,,reversible,D1
+12n_440,2,3,3,,,chiral,1
+12n_441,[2; 3],3,3,,,reversible,D1
+12n_442,2,2,3,,,reversible,D1
+12n_443,[1; 2; 3],2,3,,,reversible,D1
+12n_444,[1; 2],2,3,,,chiral,Z2
+12n_445,2,3,3,,,reversible,D1
+12n_446,1,3,3,,,reversible,D1
+12n_447,1,3,3,,,chiral,Z2
+12n_448,[1; 2],4,3,,,chiral,1
+12n_449,[1; 2],3,3,,,reversible,D1
+12n_450,1,3,3,,,reversible,D1
+12n_451,2,3,3,,,reversible,D1
+12n_452,[1; 2],2,3,,,reversible,D1
+12n_453,[3; 4],3,3,,,reversible,D1
+12n_454,[1; 2; 3],3,3,,,chiral,1
+12n_455,2,3,3,,,chiral,1
+12n_456,[1; 2],3,3,,,chiral,1
+12n_457,[1; 2],2,3,,,reversible,D1
+12n_458,[1; 2],4,3,,,reversible,D1
+12n_459,2,4,3,,,reversible,D1
+12n_460,2,3,3,,,reversible,D1
+12n_461,1,3,3,,,chiral,1
+12n_462,2,2,3,,,negative amphicheiral,D1
+12n_463,[1; 2],3,3,,,chiral,1
+12n_464,1,2,3,,,reversible,D2
+12n_465,[1; 2],4,3,,,chiral,1
+12n_466,2,4,3,,,reversible,D1
+12n_467,1,4,3,,,reversible,D1
+12n_468,1,4,3,,,reversible,D1
+12n_469,2,3,3,,,reversible,D1
+12n_470,[1; 2],3,3,,,reversible,D1
+12n_471,[1; 2],3,3,,,reversible,D1
+12n_472,5,5,3,,,reversible,D1
+12n_473,4,4,3,,,reversible,D1
+12n_474,4,4,3,,,reversible,D1
+12n_475,[1; 2],3,3,,,reversible,D1
+12n_476,2,3,3,,,reversible,D1
+12n_477,[3; 4],3,3,,,reversible,D1
+12n_478,[1; 2],2,3,,,reversible,D1
+12n_479,[1; 2],2,3,,,reversible,D1
+12n_480,2,3,3,,,reversible,D2
+12n_481,2,3,3,,,reversible,D1
+12n_482,1,3,3,,,reversible,D1
+12n_483,1,2,3,,,reversible,D2
+12n_484,1,3,3,,,chiral,1
+12n_485,1,3,3,,,chiral,1
+12n_486,2,3,3,,,reversible,D1
+12n_487,1,3,3,,,reversible,D1
+12n_488,1,3,3,,,reversible,D1
+12n_489,[1; 2],3,3,,,reversible,D1
+12n_490,[1; 2],2,3,,,reversible,D1
+12n_491,[1; 2],3,3,,,chiral,1
+12n_492,1,3,3,,,chiral,1
+12n_493,1,3,3,,,chiral,1
+12n_494,3,4,3,,,reversible,D2
+12n_495,2,3,3,,,reversible,D1
+12n_496,3,3,3,,,reversible,D2
+12n_497,2,3,3,,,reversible,D2
+12n_498,2,2,3,,,chiral,1
+12n_499,1,3,3,,,reversible,D1
+12n_500,[1; 2],3,3,,1,reversible,D1
+12n_501,[1; 2],2,3,,1,reversible,D1
+12n_502,4,4,3,,1,reversible,D1
+12n_503,3,3,3,,1,reversible,D2
+12n_504,1,4,3,,,chiral,1
+12n_505,2,3,3,,,reversible,D1
+12n_506,[1; 2],3,3,,,chiral,1
+12n_507,[1; 2],3,3,,,chiral,1
+12n_508,2,4,3,,,reversible,D1
+12n_509,[2; 3],4,3,,,reversible,D2
+12n_510,2,3,3,,,reversible,D2
+12n_511,1,3,3,,,reversible,D1
+12n_512,2,3,3,,,chiral,1
+12n_513,2,3,3,,,chiral,1
+12n_514,[1; 2],3,3,,,chiral,1
+12n_515,2,3,3,,,chiral,1
+12n_516,2,3,3,,,chiral,1
+12n_517,[1; 2],4,3,,,chiral,1
+12n_518,4,4,3,,,reversible,D4
+12n_519,[1; 2],2,3,,,reversible,D1
+12n_520,[1; 2],2,3,,,chiral,1
+12n_521,[1; 2],4,3,,,reversible,D1
+12n_522,[1; 2; 3],3,3,,,reversible,D1
+12n_523,[1; 2],2,3,,,reversible,D1
+12n_524,[1; 2; 3],3,3,,,reversible,D1
+12n_525,[1; 2],3,3,,,reversible,D1
+12n_526,2,4,3,,,reversible,D1
+12n_527,[2; 3],3,3,,,reversible,D1
+12n_528,3,3,3,,,chiral,1
+12n_529,[1; 2],3,3,,,chiral,1
+12n_530,[1; 2],3,3,,,chiral,1
+12n_531,[1; 2; 3],4,3,,,chiral,1
+12n_532,[1; 2],3,3,,,chiral,1
+12n_533,2,4,3,,,reversible,D1
+12n_534,1,3,3,,,chiral,1
+12n_535,1,2,3,,,reversible,D1
+12n_536,1,3,3,,,chiral,1
+12n_537,[1; 2],3,3,,,reversible,D1
+12n_538,2,4,3,,,reversible,D1
+12n_539,[1; 2],4,3,,,chiral,1
+12n_540,2,3,3,,,chiral,1
+12n_541,[1; 2],3,3,,,chiral,1
+12n_542,[1; 2],3,3,,,reversible,D1
+12n_543,2,3,3,,,reversible,D1
+12n_544,[1; 2],3,3,,,reversible,D1
+12n_545,2,3,3,,,chiral,1
+12n_546,2,3,3,,2,reversible,D2
+12n_547,1,2,3,,,reversible,D2
+12n_548,[1; 2],3,3,,,reversible,D1
+12n_549,2,3,3,,,reversible,D3
+12n_550,[1; 2],2,3,,,reversible,D2
+12n_551,2,3,3,,,reversible,D1
+12n_552,1,3,3,,,reversible,D1
+12n_553,3,2,4,,3,reversible,D2
+12n_554,3,2,4,,3,reversible,D2
+12n_555,3,3,4,,3,reversible,D8
+12n_556,3,2,4,,3,reversible,D4
+12n_557,[2; 3],3,3,,,chiral,1
+12n_558,2,3,3,,,chiral,1
+12n_559,2,3,3,,,chiral,Z2
+12n_560,1,3,3,,,chiral,1
+12n_561,2,2,3,,,chiral,Z2
+12n_562,2,2,3,,,chiral,Z2
+12n_563,[1; 2],2,3,,,chiral,1
+12n_564,[1; 2],2,3,,,reversible,D2
+12n_565,2,3,3,,2,chiral,Z2
+12n_566,1,2,3,,,chiral,Z2
+12n_567,2,3,3,,,chiral,1
+12n_568,[1; 2],3,3,,,chiral,1
+12n_569,[1; 2; 3],3,3,,,chiral,1
+12n_570,2,4,3,,2,reversible,D1
+12n_571,2,4,3,,2,reversible,D2
+12n_572,1,3,3,,,reversible,D1
+12n_573,1,3,3,,,reversible,D2
+12n_574,5,5,3,,2,reversible,D2
+12n_575,4,4,3,,,reversible,D2
+12n_576,4,4,3,,,reversible,D2
+12n_577,[1; 2],3,3,,,reversible,D1
+12n_578,[1; 2],3,3,,,reversible,D2
+12n_579,1,3,3,,,reversible,D1
+12n_580,2,2,3,,,reversible,D1
+12n_581,3,3,3,,2,reversible,D2
+12n_582,2,2,3,,2,reversible,D1
+12n_583,2,2,3,,2,reversible,D2
+12n_584,1,3,3,,,chiral,1
+12n_585,3,3,3,,,reversible,D1
+12n_586,[1; 2],3,3,,,chiral,1
+12n_587,[1; 2],3,3,,,reversible,D1
+12n_588,1,3,3,,,chiral,1
+12n_589,2,3,3,,,chiral,1
+12n_590,3,4,3,,,chiral,1
+12n_591,4,4,3,,,reversible,D1
+12n_592,2,4,3,,,reversible,D1
+12n_593,2,3,3,,,chiral,1
+12n_594,3,3,3,,,reversible,D1
+12n_595,[1; 2],3,3,,,reversible,D1
+12n_596,2,3,3,,,reversible,D1
+12n_597,[1; 2],3,3,,,chiral,1
+12n_598,2,3,3,,,reversible,D1
+12n_599,1,4,3,,,chiral,1
+12n_600,[3; 4],3,3,,,reversible,D2
+12n_601,2,3,3,,,reversible,D1
+12n_602,2,3,3,,,reversible,D2
+12n_603,3,4,3,,,reversible,D1
+12n_604,2,4,3,,,reversible,D1
+12n_605,2,4,3,,,reversible,D2
+12n_606,2,3,3,,,chiral,1
+12n_607,[1; 2],3,3,,,chiral,1
+12n_608,[1; 2],2,3,,,chiral,1
+12n_609,2,4,3,,,chiral,1
+12n_610,1,4,3,,,reversible,D1
+12n_611,2,3,3,,,reversible,D1
+12n_612,2,3,3,,,reversible,D1
+12n_613,1,4,3,,,reversible,D1
+12n_614,1,3,3,,,chiral,1
+12n_615,2,4,3,,,reversible,D1
+12n_616,1,3,3,,,chiral,1
+12n_617,2,3,3,,,chiral,1
+12n_618,[1; 2],4,3,,,chiral,1
+12n_619,2,4,3,,,chiral,1
+12n_620,1,3,3,,,chiral,1
+12n_621,2,3,3,,,chiral,1
+12n_622,2,4,3,,,chiral,1
+12n_623,2,4,3,,,chiral,1
+12n_624,3,4,3,,,reversible,D1
+12n_625,[1; 2],4,3,,,reversible,D1
+12n_626,3,3,3,,,chiral,Z2
+12n_627,[1; 2],4,3,,,chiral,1
+12n_628,1,3,3,,,reversible,D1
+12n_629,[1; 2],3,3,,,reversible,D1
+12n_630,[2; 3],3,3,,,reversible,D1
+12n_631,[1; 2; 3],3,3,,,chiral,1
+12n_632,[1; 2],4,3,,,reversible,D1
+12n_633,1,3,3,,,chiral,1
+12n_634,[1; 2],3,3,,,chiral,1
+12n_635,[1; 2],4,3,,,chiral,1
+12n_636,2,3,3,,,reversible,D1
+12n_637,2,3,3,,,reversible,D2
+12n_638,3,3,3,,,reversible,D1
+12n_639,3,4,3,,,reversible,D1
+12n_640,4,4,3,,,chiral,1
+12n_641,2,4,3,,,chiral,1
+12n_642,[3; 4],2,4,,3,reversible,D8
+12n_643,2,3,3,,,reversible,D1
+12n_644,3,3,3,,,chiral,1
+12n_645,1,3,3,,,chiral,1
+12n_646,1,4,3,,,chiral,1
+12n_647,4,4,3,,,chiral,1
+12n_648,3,4,3,,,chiral,1
+12n_649,2,4,3,,,chiral,1
+12n_650,1,2,3,,,reversible,D1
+12n_651,2,3,3,,,reversible,D1
+12n_652,2,4,3,,,chiral,1
+12n_653,3,4,3,,,reversible,D1
+12n_654,3,3,3,,,reversible,D1
+12n_655,3,3,3,,,chiral,1
+12n_656,1,3,3,,,chiral,1
+12n_657,[1; 2],4,3,,,chiral,1
+12n_658,2,4,3,,,chiral,1
+12n_659,2,3,3,,,chiral,1
+12n_660,3,3,3,,,reversible,D1
+12n_661,2,3,3,,,chiral,1
+12n_662,[1; 2],3,3,,,chiral,1
+12n_663,[1; 2],4,3,,,reversible,D1
+12n_664,[1; 2],4,3,,,reversible,D2
+12n_665,2,3,3,,,chiral,1
+12n_666,2,4,3,,,reversible,D1
+12n_667,1,3,3,,,reversible,D1
+12n_668,2,4,3,,,reversible,D1
+12n_669,2,3,3,,,reversible,D1
+12n_670,[1; 2; 3],4,3,,,chiral,1
+12n_671,3,4,3,,,reversible,D1
+12n_672,2,3,3,,,chiral,1
+12n_673,[1; 2; 3],4,3,,,chiral,1
+12n_674,3,4,3,,,chiral,1
+12n_675,[1; 2; 3],4,3,,,chiral,1
+12n_676,[1; 2; 3],3,3,,,chiral,1
+12n_677,2,3,3,,,chiral,1
+12n_678,[1; 2],3,3,,,chiral,1
+12n_679,5,5,3,,,chiral,1
+12n_680,4,4,3,,,chiral,1
+12n_681,[1; 2; 3],4,3,,,chiral,1
+12n_682,3,4,3,,,chiral,Z2
+12n_683,2,4,3,,,chiral,1
+12n_684,2,4,3,,,chiral,1
+12n_685,2,3,3,,,chiral,1
+12n_686,2,4,3,,,chiral,1
+12n_687,1,3,3,,,chiral,1
+12n_688,5,5,3,,,chiral,1
+12n_689,4,4,3,,,chiral,1
+12n_690,[1; 2],3,3,,,chiral,1
+12n_691,4,4,3,,,reversible,D1
+12n_692,4,4,3,,,reversible,D1
+12n_693,3,4,3,,,chiral,1
+12n_694,4,4,3,,,chiral,1
+12n_695,[1; 2],4,3,,,chiral,1
+12n_696,3,4,3,,,chiral,1
+12n_697,2,4,3,,,chiral,1
+12n_698,[2; 3],3,3,,,chiral,1
+12n_699,2,2,3,,,chiral,1
+12n_700,[2; 3],3,3,,,reversible,D1
+12n_701,[2; 3],2,3,,,reversible,D1
+12n_702,[1; 2],3,3,,,chiral,1
+12n_703,2,4,3,,,chiral,1
+12n_704,1,2,3,,,chiral,1
+12n_705,1,3,3,,,chiral,1
+12n_706,2,4,3,,,fully amphicheiral,D6
+12n_707,[2; 3],4,3,,,reversible,D1
+12n_708,[1; 2],4,3,,,chiral,1
+12n_709,1,4,3,,,chiral,1
+12n_710,1,3,3,,,chiral,1
+12n_711,[1; 2],4,3,,,chiral,1
+12n_712,2,3,3,,,chiral,1
+12n_713,2,3,3,,,chiral,1
+12n_714,2,3,3,,,chiral,1
+12n_715,1,2,3,,,chiral,1
+12n_716,[1; 2],3,3,,,chiral,1
+12n_717,2,3,3,,,reversible,D1
+12n_718,1,3,3,,,reversible,D1
+12n_719,1,3,3,,,chiral,1
+12n_720,2,3,3,,,chiral,1
+12n_721,[1; 2; 3],4,3,,1,reversible,D1
+12n_722,3,4,3,,1,reversible,D2
+12n_723,[1; 2],3,3,,1,reversible,D1
+12n_724,2,3,3,,1,reversible,D1
+12n_725,5,5,3,,1,reversible,D2
+12n_726,2,2,3,,1,reversible,D2
+12n_727,1,3,3,,,chiral,1
+12n_728,[1; 2],4,3,,,chiral,1
+12n_729,2,3,3,,,chiral,1
+12n_730,[1; 2],3,3,,,chiral,1
+12n_731,[1; 2],3,3,,,chiral,1
+12n_732,1,3,3,,,chiral,1
+12n_733,[1; 2],3,3,,,chiral,1
+12n_734,[2; 3],3,3,,,chiral,1
+12n_735,[1; 2],2,3,,,chiral,1
+12n_736,1,3,3,,,chiral,1
+12n_737,2,3,3,,,reversible,D1
+12n_738,2,3,3,,,chiral,1
+12n_739,2,4,3,,,reversible,D1
+12n_740,1,3,3,,,reversible,D1
+12n_741,[1; 2],3,3,,,reversible,D1
+12n_742,2,3,3,,,reversible,D1
+12n_743,2,2,3,,,reversible,D1
+12n_744,2,3,3,,,reversible,D1
+12n_745,2,3,3,,,reversible,D1
+12n_746,2,3,3,,,reversible,D1
+12n_747,2,4,3,,,chiral,1
+12n_748,1,4,3,,,chiral,1
+12n_749,2,3,3,,,reversible,D1
+12n_750,3,3,3,,,reversible,D2
+12n_751,[1; 2],4,3,,,reversible,D1
+12n_752,2,3,3,,,reversible,D1
+12n_753,2,3,3,,,chiral,1
+12n_754,1,4,3,,,reversible,D1
+12n_755,2,3,3,,,chiral,1
+12n_756,2,3,3,,,reversible,D1
+12n_757,2,3,3,,,chiral,1
+12n_758,[3; 4],3,3,,,chiral,1
+12n_759,2,2,3,,,reversible,D1
+12n_760,2,3,3,,,reversible,D1
+12n_761,2,4,3,,,chiral,1
+12n_762,2,4,3,,,chiral,1
+12n_763,2,3,3,,,chiral,1
+12n_764,[3; 4],3,3,,,reversible,D1
+12n_765,2,3,3,,,chiral,1
+12n_766,2,3,3,,,chiral,1
+12n_767,1,4,3,,,chiral,1
+12n_768,[1; 2],3,3,,,chiral,1
+12n_769,[2; 3],3,3,,,chiral,1
+12n_770,2,3,3,,,chiral,1
+12n_771,1,3,3,,,chiral,1
+12n_772,[1; 2],3,3,,,chiral,1
+12n_773,2,3,3,,,chiral,1
+12n_774,[1; 2],2,3,,,chiral,1
+12n_775,[1; 2],4,3,,,chiral,1
+12n_776,[1; 2],4,3,,,chiral,1
+12n_777,[1; 2],3,3,,,reversible,D1
+12n_778,2,3,3,,,chiral,1
+12n_779,2,3,3,,,chiral,1
+12n_780,[1; 2],3,3,,,chiral,1
+12n_781,2,4,3,,,reversible,D1
+12n_782,[1; 2],3,3,,,chiral,1
+12n_783,[1; 2],3,3,,,chiral,1
+12n_784,[1; 2],4,3,,,chiral,1
+12n_785,1,2,3,,,reversible,D1
+12n_786,1,3,3,,,chiral,1
+12n_787,1,4,3,,,chiral,1
+12n_788,[1; 2],3,3,,,chiral,1
+12n_789,1,3,3,,,chiral,1
+12n_790,[1; 2],4,3,,,chiral,1
+12n_791,[2; 3],4,3,,,chiral,1
+12n_792,[1; 2],4,3,,,chiral,1
+12n_793,[2; 3],3,3,,,chiral,1
+12n_794,[1; 2],3,3,,,chiral,1
+12n_795,[1; 2],2,3,,,chiral,1
+12n_796,[2; 3],3,3,,,chiral,1
+12n_797,2,2,3,,,chiral,1
+12n_798,2,3,3,,,reversible,D1
+12n_799,[1; 2],3,3,,,chiral,1
+12n_800,[1; 2],4,3,,,chiral,1
+12n_801,2,2,3,,,reversible,D1
+12n_802,[1; 2],4,3,,,chiral,1
+12n_803,[2; 3],4,3,,,reversible,D1
+12n_804,[1; 2; 3],4,3,,,reversible,D1
+12n_805,[1; 2; 3],3,3,,,reversible,D1
+12n_806,[3; 4],3,3,,,reversible,D4
+12n_807,2,3,3,,,reversible,D1
+12n_808,[1; 2],3,3,,,reversible,D1
+12n_809,[1; 2; 3],2,3,,,reversible,D2
+12n_810,2,3,3,,,reversible,D1
+12n_811,[1; 2; 3],3,3,,,reversible,D1
+12n_812,[1; 2],3,3,,,chiral,1
+12n_813,2,3,3,,,reversible,D1
+12n_814,[1; 2; 3],2,3,,,reversible,D1
+12n_815,[1; 2],2,3,,,reversible,D1
+12n_816,1,3,3,,,chiral,1
+12n_817,2,3,3,,,reversible,D1
+12n_818,[1; 2; 3],3,3,,,reversible,D1
+12n_819,[1; 2],3,3,,,chiral,1
+12n_820,3,4,3,,,reversible,D1
+12n_821,[1; 2],4,3,,,reversible,D1
+12n_822,[1; 2],4,3,,,reversible,D1
+12n_823,2,3,3,,,reversible,D1
+12n_824,[1; 2],3,3,,,reversible,D1
+12n_825,[1; 2],3,3,,,reversible,D1
+12n_826,[1; 2],3,3,,,chiral,1
+12n_827,2,4,3,,,chiral,1
+12n_828,1,3,3,,,chiral,1
+12n_829,[1; 2],4,3,,,reversible,D1
+12n_830,3,3,3,,,reversible,D1
+12n_831,1,4,3,,,reversible,D1
+12n_832,2,3,3,,,reversible,D1
+12n_833,[1; 2; 3],3,3,,,reversible,D1
+12n_834,2,3,3,,,chiral,1
+12n_835,[1; 2],3,3,,,reversible,D1
+12n_836,2,3,3,,,chiral,1
+12n_837,2,4,3,,,reversible,D6
+12n_838,2,2,3,,,reversible,D2
+12n_839,2,4,3,,,reversible,D3
+12n_840,2,4,3,,,reversible,D1
+12n_841,[1; 2],3,3,,,chiral,1
+12n_842,[1; 2],4,3,,,chiral,1
+12n_843,2,3,3,,,reversible,D3
+12n_844,[1; 2; 3],3,3,,,reversible,D3
+12n_845,2,3,3,,,reversible,D1
+12n_846,2,2,3,,,reversible,D1
+12n_847,2,3,3,,,reversible,D2
+12n_848,2,4,3,,,reversible,D1
+12n_849,2,3,3,,,reversible,D1
+12n_850,4,4,3,,,reversible,D1
+12n_851,[3; 4],3,3,,,reversible,D1
+12n_852,1,4,3,,,chiral,1
+12n_853,[1; 2],3,3,,,chiral,1
+12n_854,[1; 2; 3],3,3,,,chiral,1
+12n_855,[1; 2; 3],3,3,,,reversible,D1
+12n_856,[1; 2; 3],2,3,,,reversible,D1
+12n_857,[1; 2],4,3,,,chiral,1
+12n_858,1,3,3,,,chiral,1
+12n_859,[1; 2; 3],4,3,,,chiral,1
+12n_860,2,3,3,,,reversible,D1
+12n_861,[1; 2],3,3,,,chiral,1
+12n_862,2,3,3,,,chiral,1
+12n_863,[2; 3],3,3,,,chiral,1
+12n_864,[1; 2],4,3,,,chiral,1
+12n_865,[1; 2],4,3,,,chiral,1
+12n_866,[1; 2],4,3,,,chiral,1
+12n_867,[2; 3],3,3,,,reversible,D1
+12n_868,[1; 2],2,3,,,reversible,D2
+12n_869,2,3,3,,,reversible,D1
+12n_870,2,3,3,,,chiral,1
+12n_871,1,3,3,,,chiral,1
+12n_872,[1; 2],4,3,,,chiral,1
+12n_873,[1; 2; 3],4,3,,,negative amphicheiral,D2
+12n_874,2,4,3,,,chiral,1
+12n_875,[1; 2],4,3,,,reversible,D1
+12n_876,2,3,3,,,reversible,D1
+12n_877,2,4,3,,,chiral,Z2
+12n_878,2,3,3,,,chiral,1
+12n_879,2,4,3,,,reversible,D1
+12n_880,[1; 2],3,3,,,reversible,D1
+12n_881,[2; 3],2,3,,,reversible,D6
+12n_882,3,4,3,,,reversible,D1
+12n_883,2,3,3,,,chiral,1
+12n_884,1,2,3,,,chiral,1
+12n_885,[1; 2],3,3,,,chiral,1
+12n_886,2,3,3,,,reversible,D1
+12n_887,2,4,3,,,reversible,D5
+12n_888,5,5,3,,,reversible,D4
